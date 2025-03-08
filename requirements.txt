@@ -3,4 +3,5 @@ beautifulsoup4
 pandas
 selenium
 webdriver-manager
+os
 jupyter
