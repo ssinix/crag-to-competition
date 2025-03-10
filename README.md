@@ -29,7 +29,7 @@ Climbing is a rapidly growing sport, with distinct communities in outdoor sport 
 
 2. **8a.nu & The Crag Scraping**
    * **Method**: Automate searches on 8a.nu and The Crag using IFSC climber names, employing Python scripts (potentially with selenium for dynamic pages) to scrape matching profiles and ascent data.
-   * **Scope**: Target profiles of IFSC climbers, expecting overlap primarily among younger competitors active on these platforms.
+   * **Scope**: Target profiles of IFSC climbers, expecting overlap primarily among older competitors active on these platforms.
    * **Challenges**: Limited overlap due to generational shifts in platform usage; manual verification may be needed for ambiguous matches.
 
 3. **Data Enrichment and Linking**
