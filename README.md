@@ -3,7 +3,7 @@
 <h3 align="center"> From Crag to Competition: Does Outdoor Sport Climbing Translate to Competitive Success?</h3>
 
 <div align="center">
-    <img src="./crag-to-comp-thumbnail.jpg" alt="Before Inversion" width="500">
+    <img src="data/crag-to-comp-thumbnail.jpg" alt="Before Inversion" width="500">
 </div>
 
 ## Motivation
