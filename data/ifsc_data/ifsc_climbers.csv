@@ -3,32 +3,32 @@ sorato ANRAKU,JPN,male,3640.0,2971.0,6313.0
 dohyun LEE,KOR,male,3183.0,2343.0,4320.0
 meichi NARASAKI,JPN,male,2860.0,0.0,0.0
 tomoa NARASAKI,JPN,male,2849.0,765.0,3600.0
-sohta AMAGASA,JPN,male,2651.0,0.0,0.0
+sohta AMAGASA,JPN,male,2619.0,0.0,0.0
 toby ROBERTS,GBR,male,2365.0,3380.0,6490.0
 sam AVEZOU,FRA,male,2118.0,3059.0,3898.0
 maximillian MILNE,GBR,male,1879.7,490.0,2061.7
-ritsu KAYOTANI,JPN,male,1513.0,0.0,0.0
 jongwon CHON,KOR,male,1506.5,267.5,1534.5
 manuel CORNU,FRA,male,1444.5,0.0,0.0
 anze PEHARC,SLO,male,1414.7,162.0,1078.7
 dayan AKHTAR,GBR,male,1376.0,0.0,0.0
+ritsu KAYOTANI,JPN,male,1375.0,0.0,0.0
 yuji FUJIWAKI,JPN,male,1341.0,0.0,0.0
 hannes VAN DUYSEN,BEL,male,1243.0,1048.0,2388.0
 jakob SCHUBERT,AUT,male,1242.5,1000.0,3967.5
 mejdi SCHALCK,FRA,male,1208.0,738.0,1523.0
 adam ONDRA,CZE,male,1185.0,1185.0,2918.0
 paul JENFT,FRA,male,1019.5,1200.0,2673.0
-thomas LEMAGNER,FRA,male,1015.0,0.0,0.0
 colin DUFFY,USA,male,975.0,1765.0,4110.0
 jan-luca POSCH,AUT,male,942.2,0.0,0.0
 yannick FLOHÉ,GER,male,893.0,943.0,2388.0
-adam SHAHAR,USA,male,850.5,0.0,0.0
+thomas LEMAGNER,FRA,male,865.0,0.0,0.0
 alberto GINÉS LÓPEZ,ESP,male,831.0,1286.0,2579.0
-oscar BAUDRAND,CAN,male,823.0,549.0,1036.0
-samuel RICHARD,FRA,male,755.0,0.0,0.0
+adam SHAHAR,USA,male,786.5,0.0,0.0
 nicolai UZNIK,AUT,male,727.5,158.0,692.5
 sascha LEHMANN,SUI,male,719.2,2340.0,2378.0
+oscar BAUDRAND,CAN,male,709.0,449.0,998.0
 satone YOSHIDA,JPN,male,687.0,2239.0,2067.0
+samuel RICHARD,FRA,male,680.0,0.0,0.0
 elias ARRIAGADA KRÜGER,GER,male,674.5,0.0,0.0
 yoshiyuki OGATA,JPN,male,644.8,1383.0,1483.3
 nikolay RUSEV,BUL,male,587.5,78.0,624.0
@@ -40,167 +40,154 @@ nicolas COLLIN,BEL,male,425.7,291.0,528.7
 hamish MCARTHUR,GBR,male,403.0,403.0,1766.0
 alexander MEGOS,GER,male,378.0,1183.0,1883.0
 filip SCHENK,ITA,male,365.7,1203.0,1026.0
-charles BARRON,USA,male,362.0,0.0,0.0
 julien CLÉMENCE,SUI,male,358.2,0.0,0.0
 kodai YAMADA,JPN,male,350.2,0.0,0.0
 yufei PAN,CHN,male,343.0,446.0,1296.0
 max KLEESATTEL,GER,male,331.0,0.0,0.0
 ram LEVIN,ISR,male,326.0,0.0,0.0
+charles BARRON,USA,male,314.0,0.0,0.0
 edvards GRUZITIS,LAT,male,297.0,23.0,278.5
 nimrod MARCUS,ISR,male,290.5,275.5,350.0
 slav KIROV,BUL,male,288.0,27.0,315.0
 luka POTOCAR,SLO,male,286.0,1103.0,1525.0
 junzhe HU,CHN,male,268.0,78.7,314.0
-jack MACDOUGALL,GBR,male,267.5,59.0,275.5
 dylan PARKS,AUS,male,255.3,28.0,255.0
-matthew RODRIGUEZ,CAN,male,255.0,0.0,0.0
 simon LORENZI,BEL,male,253.5,192.0,277.5
-benjamin VARGAS,CHI,male,248.5,117.0,347.5
 mickael MAWEM,FRA,male,247.0,7.0,247.0
-thorben perry BLOEM,GER,male,245.5,0.0,0.0
 guillermo PEINADO FRANGANILLO,ESP,male,225.5,848.0,1027.5
-hugo HOYER,USA,male,225.2,168.0,369.0
-malo GILLY-EYDOUX,AUS,male,225.0,69.0,294.0
+malo GILLY-EYDOUX,AUS,male,225.0,0.0,0.0
 benjamin HANNA,USA,male,214.5,6.7,221.2
 ravianto RAMADHAN,INA,male,213.5,281.5,426.5
 yejun CHON,KOR,male,210.0,0.0,0.0
+benjamin VARGAS,CHI,male,193.5,22.0,209.5
 yunchan SONG,KOR,male,190.5,184.0,223.5
-ido FIDEL,ISR,male,185.7,0.0,0.0
-luke GOH WEN BIN,SGP,male,179.8,15.0,187.8
 yannick NAGEL,GER,male,172.8,312.0,318.8
 sam LAVENDER,AUS,male,171.0,0.0,0.0
 geva LEVIN,ISR,male,164.0,19.3,165.3
-diego LEQUERICA BUSCAGLIA,PER,male,160.0,0.0,0.0
+thorben perry BLOEM,GER,male,163.5,0.0,0.0
 campbell HARRISON,AUS,male,160.0,131.0,709.0
-antoine GIRARD,FRA,male,154.0,0.0,0.0
 andreas HOFHERR,AUT,male,153.5,0.0,0.0
-leo FAVOT,FRA,male,151.0,0.0,0.0
-christian WAGNER,CHI,male,141.7,0.0,0.0
+jack MACDOUGALL,GBR,male,146.5,59.0,154.5
 aiden YANEV,AUS,male,138.0,0.0,0.0
+luke GOH WEN BIN,SGP,male,130.8,15.0,145.8
 stefano GHISOLFI,ITA,male,120.3,1199.0,1080.3
-cheuk-hei HO,HKG,male,117.0,0.0,0.0
-simon HIBBELER,USA,male,117.0,0.0,0.0
+ido FIDEL,ISR,male,116.7,0.0,0.0
 jonas UTELLI,SUI,male,116.0,1243.0,1119.0
-louis FECHOZ,AUS,male,115.0,121.0,236.0
+louis FECHOZ,AUS,male,115.0,0.0,0.0
 taiga SAKAMOTO,JPN,male,112.5,0.0,0.0
-keita DOHI,JPN,male,111.0,0.0,0.0
 stefan SCHERZ,AUT,male,108.0,530.5,516.0
-cheung-chi shoji CHAN,HKG,male,105.0,35.5,140.5
-chih-en FAN,TPE,male,102.8,111.0,207.8
-joaquin URRUTIA,CHI,male,101.5,215.0,316.5
 maxim PARE,AUS,male,99.5,0.0,0.0
 zan LOVENJAK SUDAR,SLO,male,99.0,31.0,99.0
 kito MARTINI,FRA,male,96.5,0.0,0.0
 hannes PUMAN,SWE,male,95.0,158.0,174.0
 oren PRIHED,ISR,male,93.0,0.0,0.0
 lasse VON FREIER,GER,male,86.0,0.0,0.0
-thor VILLEGAS GARCÍA,MEX,male,79.0,16.0,95.0
 martin BERGANT,SLO,male,78.0,122.0,119.0
-raffael GRUBER,AUT,male,76.7,0.0,0.0
 martin STRANIK,CZE,male,74.0,712.0,612.0
 raviandi RAMADHAN,INA,male,72.0,258.0,279.0
-timo UZNIK,AUT,male,71.8,166.0,237.8
-rodrigo IASI HANADA,BRA,male,71.5,32.5,94.5
 paul BRAND,NED,male,71.0,0.0,0.0
-lukas MOKROLUSKY,CZE,male,69.5,15.5,85.0
 nathan MARTIN,LUX,male,69.2,0.0,0.0
 marley FARQUHARSON,AUS,male,69.0,0.0,0.0
-bharath PEREIRA,IND,male,69.0,1.0,70.0
 adrien LEMAIRE,FRA,male,65.0,0.0,0.0
-chi-fung AU,HKG,male,58.0,12.0,70.0
-joshua DAMASCO,AUS,male,57.0,161.0,218.0
-zach RICHARDSON,CAN,male,53.3,0.0,0.0
-ka-chun YAU,HKG,male,53.0,0.0,0.0
+antoine GIRARD,FRA,male,62.0,0.0,0.0
+joshua DAMASCO,AUS,male,57.0,0.0,0.0
+cheuk-hei HO,HKG,male,54.0,0.0,0.0
 dillon COUNTRYMAN,USA,male,52.0,0.0,0.0
 yuval SHEMLA,ISR,male,51.0,355.0,344.0
 alex KHAZANOV,ISR,male,49.0,49.0,49.0
 jesse RUFFINI,AUS,male,48.0,0.0,0.0
 guy MCNAMEE,CAN,male,47.0,16.0,63.0
+leo FAVOT,FRA,male,47.0,0.0,0.0
 pietro VIDI,ITA,male,41.0,0.0,0.0
-ronny ESCOBAR,CHI,male,41.0,59.0,100.0
 ben ABEL,AUS,male,40.0,0.0,0.0
+rodrigo IASI HANADA,BRA,male,36.5,19.5,56.0
 matic KOTAR,SLO,male,36.5,0.0,0.0
 jinwei YAO,CHN,male,34.5,85.0,119.5
 luka SUGIMOTO-FAULKNER,NZL,male,33.0,0.0,0.0
+hugo HOYER,USA,male,32.2,37.0,62.7
 jiahao FU,CHN,male,32.0,0.0,0.0
 iman AREZEH,IRI,male,31.5,0.0,0.0
-dylan SMITH,CAN,male,30.0,0.0,0.0
 sean MCCOLL,CAN,male,29.0,29.0,29.0
+zach RICHARDSON,CAN,male,28.3,0.0,0.0
+chih-en FAN,TPE,male,27.8,111.0,138.8
 michael O'NEILL,IRL,male,27.5,1.0,28.5
 yonatan KATZ,ISR,male,27.0,0.0,0.0
 max THOMAS,AUS,male,27.0,0.0,0.0
 jack BURNINGHAM,RSA,male,25.5,0.0,0.0
+raffael GRUBER,AUT,male,23.7,0.0,0.0
 chua DENNIS,SGP,male,23.7,0.0,0.0
 alexandru-florian ZAHARIA,ROU,male,23.0,0.0,0.0
-dylan SOIN,AUS,male,21.0,237.5,258.5
-ian TAN,CAN,male,21.0,70.0,91.0
 marcello BOMBARDI,ITA,male,21.0,58.0,58.0
-dante CABALLERO,CHI,male,18.0,41.0,59.0
+dylan SOIN,AUS,male,21.0,12.5,33.5
+simon HIBBELER,USA,male,19.0,0.0,0.0
 giorgio TOMATIS,ITA,male,18.0,554.5,398.0
 lucas TRANDAFIR,GER,male,17.5,0.0,0.0
-samuel carlos DA SILVA,BRA,male,17.5,40.0,57.5
+tomer YAKOBOVITCH,ISR,male,17.0,0.0,0.0
 ned MIDDLEHURST,AUS,male,17.0,0.0,0.0
 nimród sebestyén TUSNÁDY,HUN,male,17.0,17.3,20.3
-tomer YAKOBOVITCH,ISR,male,17.0,0.0,0.0
 zach GALLA,USA,male,16.0,0.0,0.0
 dragoș gabriel FLUERARU,ROU,male,16.0,0.0,0.0
+joaquin URRUTIA,CHI,male,15.5,23.0,38.5
 seungchan CHOI,KOR,male,15.3,11.0,26.3
 james POPE,GBR,male,15.0,15.0,15.0
+timo UZNIK,AUT,male,14.8,166.0,180.8
 wan tong LOK,MAC,male,14.8,11.0,25.8
 sungjoon CHAE,KOR,male,14.8,0.0,0.0
 ilja AUERSPERG,AUT,male,13.5,0.0,0.0
 christopher COSSER,RSA,male,13.5,0.0,0.0
 călin ENACHE,ROU,male,13.3,0.0,0.0
 ali SALIMIAN,IRI,male,13.0,5.0,18.0
-felipe HO FOGANHOLO,BRA,male,12.0,65.5,77.5
 finlay CATE,NZL,male,12.0,0.0,0.0
 peter KURIC,SVK,male,11.5,5.0,16.5
 pietro BIAGINI,ITA,male,11.5,0.0,0.0
-leonardo MAGALLANES TEJADA,MEX,male,11.0,0.0,0.0
 jonas KÖRNER,GER,male,10.5,0.0,0.0
 qun tao KE,MAS,male,10.3,26.0,33.3
 sungbo SEO,KOR,male,10.0,0.0,0.0
 ziqi XU,CHN,male,10.0,0.0,0.0
+cheung-chi shoji CHAN,HKG,male,10.0,35.5,45.5
 theis lindegren ELFENBEIN,DEN,male,9.0,0.0,0.0
-mikel PAZ Y PUENTE HOFMANN,MEX,male,9.0,0.0,0.0
 alexander t CVETKOVSKI,AUS,male,9.0,0.0,0.0
 dohyeon KIM,KOR,male,8.7,0.0,0.0
 yongchen CHEN,CHN,male,8.5,26.0,34.5
 hossein FAMILROHANI,IRI,male,8.5,6.0,14.5
 julian SCHRITTWIESER,AUT,male,8.0,0.0,0.0
-kenu PUERTA WONG,PER,male,7.0,0.0,0.0
+christian WAGNER,CHI,male,7.7,0.0,0.0
 auswin AUEAREECHIT,THA,male,7.0,47.0,54.0
 tzu-yu CHOU,TPE,male,7.0,15.0,22.0
-nathan SATO,USA,male,6.0,334.0,323.0
-alexandre NOËL,BEL,male,6.0,8.0,14.0
+lukas MOKROLUSKY,CZE,male,6.5,15.5,22.0
+nathan SATO,USA,male,6.0,84.0,90.0
 tyler BERGIN,AUS,male,6.0,0.0,0.0
-chuluunbaatar MANDAKHBAYAR,MGL,male,5.8,7.0,12.8
-sulaiman ALYAHYA,KSA,male,5.8,0.0,0.0
-aman VERMA,IND,male,5.8,9.0,14.8
-vin SUKAPANPOTHARAM,THA,male,5.8,0.0,0.0
+alexandre NOËL,BEL,male,6.0,8.0,14.0
 quitugua MICHAEL,GUM,male,5.8,0.0,0.0
-gabriel LANCHEROS POVEDA,COL,male,5.0,0.0,0.0
-jakub ZIETEK,POL,male,5.0,0.0,0.0
-julian WIMMER,AUT,male,5.0,0.0,0.0
+vin SUKAPANPOTHARAM,THA,male,5.8,0.0,0.0
+aman VERMA,IND,male,5.8,9.0,14.8
+sulaiman ALYAHYA,KSA,male,5.8,0.0,0.0
+chuluunbaatar MANDAKHBAYAR,MGL,male,5.8,7.0,12.8
+kenu PUERTA WONG,PER,male,5.0,0.0,0.0
+thor VILLEGAS GARCÍA,MEX,male,5.0,0.0,0.0
+felipe HO FOGANHOLO,BRA,male,5.0,22.5,27.5
 victor BAUDRAND,CAN,male,5.0,39.3,44.3
 bingtang WANG,CHN,male,5.0,0.0,0.0
+jakub ZIETEK,POL,male,5.0,0.0,0.0
+julian WIMMER,AUT,male,5.0,0.0,0.0
+matthew RODRIGUEZ,CAN,male,5.0,0.0,0.0
+jair octavio MORENO MONTOYA,MEX,male,4.5,6.0,10.5
 tim WÜRTHNER,GER,male,4.5,0.0,0.0
 corentin LAPORTE,BEL,male,4.5,5.0,9.5
-jair octavio MORENO MONTOYA,MEX,male,4.5,6.0,10.5
 jan STIPEK,CZE,male,4.3,142.5,146.8
-christos SOFOKLEOUS,CYP,male,4.2,7.0,11.2
 azat MAIKOTOV,KAZ,male,4.2,8.0,12.2
-taher ALHADDAD,KSA,male,4.2,8.0,12.2
-donovan VICENTE,GUM,male,4.2,0.0,0.0
+christos SOFOKLEOUS,CYP,male,4.2,7.0,11.2
 muhammad akif nukman NAZRILAZDIN,MAS,male,4.2,0.0,0.0
+donovan VICENTE,GUM,male,4.2,0.0,0.0
+taher ALHADDAD,KSA,male,4.2,8.0,12.2
 axel LINDFORS,FIN,male,4.0,0.0,0.0
 william FLORES,PUR,male,4.0,8.0,12.0
+samuel carlos DA SILVA,BRA,male,3.5,10.0,13.5
 yago GANCEDO,MEX,male,3.3,0.0,0.0
 rolands RUGENS,LAT,male,3.0,0.0,0.0
 simon POTUCEK,CZE,male,3.0,50.5,40.0
 owen PALMER,AUS,male,3.0,0.0,0.0
 roman SIVAKOV,LTU,male,3.0,0.0,0.0
-gianfranco DIAZ,VEN,male,3.0,0.0,0.0
 ming shu GAN,TPE,male,3.0,0.0,0.0
 muhammad ayman FIRAS,MAS,male,3.0,0.0,0.0
 albin MEYER,SWE,male,2.0,11.0,13.0
@@ -212,6 +199,7 @@ mark SCANLON,IRL,male,1.0,0.0,0.0
 garcía fernández del valle PEDRO,MEX,male,1.0,0.0,0.0
 joshua kyri STELIOU,CYP,male,1.0,0.0,0.0
 filip MATEJIČKA,SVK,male,1.0,0.0,0.0
+diego LEQUERICA BUSCAGLIA,PER,male,1.0,0.0,0.0
 per RAVLO-CASPERSEN,NOR,male,1.0,3.0,4.0
 shion OMATA,JPN,male,0.0,3190.0,0.0
 zento MURASHITA,JPN,male,0.0,2990.0,0.0
@@ -232,19 +220,14 @@ christoph HANKE,GER,male,0.0,405.0,0.0
 jules MARCHALAND,FRA,male,0.0,339.0,0.0
 hyunbin MIN,KOR,male,0.0,237.0,0.0
 shinyeong YUN,KOR,male,0.0,220.0,0.0
-declan OSGOOD,USA,male,0.0,190.7,0.0
 jordi POLES,FRA,male,0.0,130.5,0.0
 ross FULKERSON,USA,male,0.0,130.0,0.0
 max DINGER,GER,male,0.0,98.0,0.0
 musauwir MUSAUWIR,INA,male,0.0,95.0,0.0
-fahim KHANDEL,AUS,male,0.0,92.0,0.0
 jesse GRUPPER,USA,male,0.0,84.0,547.0
-cruz PADILLA,USA,male,0.0,82.0,0.0
 lucas DUFROS,FRA,male,0.0,67.0,0.0
 arsène DUVAL,FRA,male,0.0,64.0,0.0
 hakjin LEE,KOR,male,0.0,56.0,0.0
-alejo SUTER,ARG,male,0.0,50.0,0.0
-jimi SMYRK,AUS,male,0.0,50.0,0.0
 leo AVEZOU,FRA,male,0.0,50.0,0.0
 felix MADER,AUT,male,0.0,48.0,0.0
 hyunseung NOH,KOR,male,0.0,42.0,0.0
@@ -252,50 +235,45 @@ dimitri FLICK,SUI,male,0.0,41.0,0.0
 nao MONCHOIS,FRA,male,0.0,39.0,0.0
 radin FOROUGHIAN,IRI,male,0.0,37.0,0.0
 davide marco COLOMBO,ITA,male,0.0,37.0,0.0
-leyroy HARLEY,AUS,male,0.0,35.0,0.0
 darius RÂPĂ,ROU,male,0.0,35.0,0.0
 lovro CREP,SLO,male,0.0,34.5,0.0
-mikel asier LINACISORO MOLINA,ESP,male,0.0,32.0,0.0
+declan OSGOOD,USA,male,0.0,33.7,0.0
 guoqing NI,CHN,male,0.0,32.0,0.0
+mikel asier LINACISORO MOLINA,ESP,male,0.0,32.0,0.0
 milan PRESKAR,SLO,male,0.0,28.0,0.0
-matias gabriel MENDOZA,ARG,male,0.0,25.0,0.0
-liam ULLMAN,AUS,male,0.0,21.0,0.0
-león PINO,CHI,male,0.0,20.0,0.0
 rhys CONLON,GBR,male,0.0,15.0,0.0
 sanghyeon HAN,KOR,male,0.0,15.0,0.0
 johannes HOFHERR,AUT,male,0.0,14.7,0.0
 gorazd JUREKOVIC,SLO,male,0.0,12.5,0.0
+chi-fung AU,HKG,male,0.0,12.0,0.0
 maël GRENIER,FRA,male,0.0,11.0,0.0
 elliot ERIKSSON,SWE,male,0.0,11.0,0.0
 seyedmohammadzaniar EBRAHIMI,IRI,male,0.0,10.0,0.0
-andy BROWN,AUS,male,0.0,10.0,0.0
-renan DENARDO,BRA,male,0.0,9.0,0.0
 poksakon CHOTIKKRAI,THA,male,0.0,9.0,0.0
-kindar MCNAMEE,CAN,male,0.0,9.0,0.0
 muhammed oğuz KAĞANOĞLU,TUR,male,0.0,9.0,0.0
+kindar MCNAMEE,CAN,male,0.0,9.0,0.0
 joseph WALMSLEY,GBR,male,0.0,8.0,0.0
 mel JANSE VAN RENSBURG,RSA,male,0.0,8.0,396.0
 alexey PANFILOV,KAZ,male,0.0,8.0,0.0
 luka JERMAN,SLO,male,0.0,7.5,0.0
-emilio FLORES,GUA,male,0.0,7.0,0.0
-hugo PARMENTIER,FRA,male,0.0,7.0,0.0
 nidhal DAQNAH,KSA,male,0.0,7.0,0.0
+hugo PARMENTIER,FRA,male,0.0,7.0,0.0
+allen LACTAOEN,GUM,male,0.0,6.0,0.0
+mohammad GARAKANI,IRI,male,0.0,6.0,0.0
+stanley AU,GUM,male,0.0,6.0,0.0
+ege DUMAN,TUR,male,0.0,6.0,0.0
 yuping MEI,CHN,male,0.0,6.0,0.0
 nima SANGZHU,CHN,male,0.0,6.0,0.0
-mohammad GARAKANI,IRI,male,0.0,6.0,0.0
-ege DUMAN,TUR,male,0.0,6.0,0.0
-allen LACTAOEN,GUM,male,0.0,6.0,0.0
-stanley AU,GUM,male,0.0,6.0,0.0
+dante CABALLERO,CHI,male,0.0,5.0,0.0
 samo GOLOB,SLO,male,0.0,5.0,0.0
-gianstefano DI NINO,VEN,male,0.0,4.0,0.0
 mark BRAND,NED,male,0.0,4.0,0.0
 michail VOLYRAKIS,GRE,male,0.0,3.0,0.0
 eliáš KYSELA,SVK,male,0.0,3.0,0.0
 illia BAKHMET-SMOLENSKYI,UKR,male,0.0,3.0,0.0
-juan sebastian SANCHEZ MARTIN,COL,male,0.0,2.0,0.0
 gergő VÁLYI,HUN,male,0.0,2.0,0.0
 marco BAUHOFER,AUT,male,0.0,1.0,0.0
 mykyta MYRONENKO,UKR,male,0.0,1.0,0.0
+bharath PEREIRA,IND,male,0.0,1.0,0.0
 natalia GROSSMAN,USA,female,2610.0,0.0,3423.0
 oceania MACKENZIE,AUS,female,2405.0,1272.0,3828.0
 mao NAKAMURA,JPN,female,2394.5,241.0,1841.0
@@ -319,163 +297,147 @@ jennifer eucharia BUCKLEY,SLO,female,1185.0,560.0,1745.0
 katja DEBEVEC,SLO,female,1145.0,27.0,867.0
 anna maria APEL,GER,female,1134.0,0.0,0.0
 madison RICHARDSON,CAN,female,948.2,0.0,0.0
-lucia DÖRFFEL,GER,female,926.0,384.0,998.0
 ayala KEREM,ISR,female,897.5,215.0,1028.5
-chloe CAULIER,BEL,female,824.5,93.5,780.5
+lucia DÖRFFEL,GER,female,822.0,384.0,896.0
 fanny GIBERT,FRA,female,809.5,107.0,759.5
+chloe CAULIER,BEL,female,773.5,93.5,780.5
 alma BESTVATER,GER,female,761.2,0.0,0.0
-afra HÖNIG,GER,female,733.0,0.0,0.0
 sofya YOKOYAMA,SUI,female,714.5,0.0,0.0
 lucija TARKUS,SLO,female,644.0,770.0,975.0
 ai MORI,JPN,female,636.7,2610.0,4771.7
 laura ROGORA,ITA,female,618.0,2543.0,2726.0
 ievgeniia KAZBEKOVA,UKR,female,618.0,686.0,1666.0
-kyra CONDIE,USA,female,601.8,242.0,702.5
 stasa GEJO,SRB,female,596.0,345.0,816.0
+afra HÖNIG,GER,female,583.0,0.0,0.0
 mia KRAMPL,SLO,female,540.5,1828.0,2058.5
 franziska STERRER,AUT,female,540.0,119.0,508.5
-kylie CULLEN,USA,female,515.5,46.0,519.5
+kyra CONDIE,USA,female,503.8,91.0,521.5
 giorgia TESIO,ITA,female,499.0,125.0,534.5
 selma ELHADJ MIMOUNE,FRA,female,463.5,0.0,0.0
+kylie CULLEN,USA,female,447.5,46.0,451.5
 maya DREAMER,ISR,female,420.0,0.0,0.0
-miku ISHII,JPN,female,390.8,0.0,0.0
 yuetong ZHANG,CHN,female,371.5,1195.0,2188.0
-adriene akiko CLARK,USA,female,370.0,224.0,576.0
 giulia MEDICI,ITA,female,350.7,0.0,0.0
 hannah MEUL,GER,female,337.0,472.0,712.0
 jain KIM,KOR,female,335.0,1338.0,1270.0
 natsumi HIRANO,JPN,female,326.5,0.0,0.0
-valentina AGUADO,ARG,female,319.0,469.5,673.0
 molly THOMPSON-SMITH,GBR,female,316.5,586.0,1024.5
+miku ISHII,JPN,female,315.8,0.0,0.0
 lucy GARLICK,GBR,female,282.8,0.0,0.0
-maya STASIUK,AUS,female,278.8,275.0,508.5
+maya STASIUK,AUS,female,278.8,50.0,287.8
 andrea KÜMIN,SUI,female,264.3,0.0,0.0
-lily ABRIAT,FRA,female,247.0,0.0,0.0
 martina BURŠÍKOVÁ,SVK,female,244.5,32.0,248.5
-roxana WIENAND,GER,female,235.5,38.0,235.5
 manon HILY,FRA,female,223.0,1225.5,1130.5
 flavy COHAUT,FRA,female,199.0,0.0,0.0
 johanna FÄRBER,AUT,female,189.0,0.0,0.0
+roxana WIENAND,GER,female,182.5,38.0,182.5
 ryu NAKAGAWA,JPN,female,173.5,344.0,433.5
-summer FRASER,AUS,female,167.0,86.0,253.0
+summer FRASER,AUS,female,167.0,0.0,0.0
 yejoo SEO,KOR,female,166.5,145.0,246.5
 florence GRÜNEWALD,GER,female,163.8,0.0,0.0
 yejin JUNG,KOR,female,162.5,0.0,0.0
-nekaia SANDERS,USA,female,162.0,0.0,0.0
-jacqueline HO,CAN,female,156.0,0.0,0.0
+lily ABRIAT,FRA,female,155.0,0.0,0.0
 michaela SMETANOVA,CZE,female,152.0,421.0,454.0
 hélène JANICOT,FRA,female,151.0,1473.0,1101.0
 anna LECHNER,GER,female,148.0,0.0,0.0
 vita LUKAN,SLO,female,146.0,889.0,816.0
 petra KLINGLER,SUI,female,140.5,118.0,157.5
-manami YAMA,JPN,female,138.0,0.0,0.0
 babette ROY,CAN,female,137.5,18.0,155.5
-lucile SAUREL,FRA,female,134.0,0.0,0.0
 sara COPAR,SLO,female,134.0,1194.5,942.0
-sandra LETTNER,AUT,female,133.8,0.0,0.0
 claire CHEFFINGS,AUS,female,132.0,0.0,0.0
-flora OBLASSER,AUT,female,121.0,1590.0,1431.0
+valentina AGUADO,ARG,female,127.0,229.5,283.0
+adriene akiko CLARK,USA,female,120.0,206.0,326.0
 lisa KLEM,NED,female,118.7,0.0,0.0
 amber SCHIFFELEERS,NED,female,116.0,0.0,0.0
 helen GILLETT,USA,female,114.0,14.0,121.0
 gayeon CHO,KOR,female,112.5,235.0,347.5
-kaho MURAKOSHI,JPN,female,111.0,0.0,0.0
 lea KEMPF,AUT,female,108.0,0.0,0.0
 rose WELLER,AUS,female,106.0,0.0,0.0
-natalie GOH SIHUI,SGP,female,95.5,13.0,108.5
-anna KELLEY,CAN,female,95.5,0.0,0.0
-yui SUEZAWA,JPN,female,95.0,0.0,0.0
-alejandra CONTRERAS,CHI,female,95.0,138.0,233.0
-clea HALL,AUS,female,85.0,42.0,127.0
-vanessa si yinn TENG,SGP,female,84.0,34.0,118.0
+clea HALL,AUS,female,85.0,0.0,0.0
 alannah YIP,CAN,female,81.0,60.0,81.0
 yael TAUB,ISR,female,79.5,0.0,0.0
 ingrid KINDLIHAGEN,NOR,female,79.0,17.5,118.5
-ting-chen YAO,TPE,female,78.0,20.0,98.0
-judith CARROLL,AUS,female,69.0,62.0,131.0
-cheuk-kei WONG,HKG,female,69.0,0.0,0.0
-zoe PEETERMANS,GBR,female,69.0,0.0,0.0
+judith CARROLL,AUS,female,69.0,0.0,0.0
 julija KRUDER,SLO,female,68.0,0.0,0.0
-maya VÁSQUEZ,CHI,female,66.5,7.0,73.5
-evangelina BRIGGS,CAN,female,65.0,0.0,0.0
-xu LITING,SGP,female,63.0,0.0,0.0
-stella GIACANI,ITA,female,63.0,0.0,0.0
-emily SCOTT,AUS,female,59.5,184.0,243.5
+emily SCOTT,AUS,female,59.5,25.0,84.5
+sandra LETTNER,AUT,female,58.8,0.0,0.0
 elnaz REKABI,IRI,female,58.5,48.0,58.5
-hung ying LEE,TPE,female,58.0,63.0,121.0
 noa SHIRAN,ISR,female,58.0,378.0,397.0
-lianet CASTILLO,VEN,female,57.0,13.0,70.0
-abi LANCE,AUS,female,56.0,26.0,82.0
-ziqi elly GAO,HKG,female,54.0,6.0,60.0
+hung ying LEE,TPE,female,58.0,63.0,121.0
+abi LANCE,AUS,female,56.0,0.0,0.0
 xuanzhen CHEN,CHN,female,53.0,61.0,114.0
 sol SA,KOR,female,52.0,82.0,82.0
+lucile SAUREL,FRA,female,52.0,0.0,0.0
 anastasiia KOBETS,UKR,female,48.7,308.0,356.7
 ema GALEOVA,CZE,female,46.8,12.0,81.8
 yajun HUANG,CHN,female,45.0,0.0,0.0
 eilin TAN,SGP,female,44.5,5.0,49.5
 maeve BRADBURY,AUS,female,44.0,0.0,0.0
-martina CASTRO,CHI,female,41.0,46.0,87.0
 xinwen ZHU,CHN,female,35.0,80.0,115.0
 analise VAN HOANG,USA,female,33.0,0.0,0.0
+nekaia SANDERS,USA,female,32.0,0.0,0.0
+evangelina BRIGGS,CAN,female,31.0,0.0,0.0
 yali WEI,CHN,female,30.5,153.0,183.5
 gayeong OH,KOR,female,30.0,111.0,128.0
-matilde CABEZAS,CHI,female,29.0,17.0,46.0
-marian kiara luna MICHERI,ARG,female,28.0,31.0,59.0
 aleksandra TOTKOVA,BUL,female,28.0,1302.0,1312.0
+vanessa si yinn TENG,SGP,female,26.0,34.0,60.0
 margarita AGAMBAYEVA,KAZ,female,26.0,25.0,51.0
 tegwen OATES,RSA,female,25.7,20.0,35.7
 francesca MATUELLA,ITA,female,25.5,0.0,0.0
 heeju NOH,KOR,female,25.5,0.0,0.0
 christel KOTZE,AUS,female,25.0,0.0,0.0
+ting-chen YAO,TPE,female,25.0,20.0,45.0
 yawen MI,CHN,female,25.0,0.0,0.0
 svana BJARNASON,ISL,female,24.1,31.0,40.3
-laura FARHAT DE ARAUJO FRAGA TIMO,BRA,female,23.5,1.0,24.5
-zoe GARCIA MOLINA,ARG,female,23.0,0.0,0.0
 geila MACIÀ MARTÍN,ESP,female,20.0,468.0,474.0
 iziar MARTÍNEZ ALMENDROS,ESP,female,20.0,73.0,93.0
-anja KÖHLER,BRA,female,18.0,142.2,136.5
 iris HEIKKINEN,FIN,female,17.7,19.0,36.7
+maya VÁSQUEZ,CHI,female,17.5,7.0,24.5
 sunniva ØVRE-EIDE,NOR,female,17.3,241.0,258.3
-katya lynn BROCKMAN,MEX,female,17.0,0.0,0.0
 jordyn DAMASCO,AUS,female,17.0,0.0,0.0
+anja KÖHLER,BRA,female,16.0,70.2,72.5
+anna KELLEY,CAN,female,15.5,0.0,0.0
 pernille TVEDT,NOR,female,15.0,12.0,27.0
 sandra HOPFENSITZ,GER,female,15.0,15.0,15.0
 lynn VAN DER MEER,NED,female,14.5,1222.0,859.5
-eugenie LEE,GBR,female,13.0,0.0,0.0
-melissa esther CHEN CHEN,PER,female,13.0,9.0,22.0
-eliska ADAMOVSKA,CZE,female,13.0,22.0,22.0
 yubin HONG,KOR,female,13.0,21.0,34.0
+eugenie LEE,GBR,female,13.0,0.0,0.0
+eliska ADAMOVSKA,CZE,female,13.0,22.0,22.0
+melissa esther CHEN CHEN,PER,female,13.0,9.0,22.0
+natalie GOH SIHUI,SGP,female,11.5,13.0,24.5
 chunhua WU,CHN,female,11.5,96.0,107.5
 sunniva eik HAAVE,NOR,female,11.3,0.0,0.0
+matilde CABEZAS,CHI,female,11.0,13.0,24.0
 sienna PEREZ,USA,female,11.0,0.0,0.0
 niamh ALLDRED,AUS,female,11.0,0.0,0.0
-emilia CALLANAN,CAN,female,11.0,0.0,0.0
 lea SLOBODOVÁ,SVK,female,11.0,0.0,0.0
+katya lynn BROCKMAN,MEX,female,10.0,0.0,0.0
 pak chi SOU,MAC,female,9.7,0.0,0.0
-ka kei CHU,MAC,female,9.7,0.0,0.0
 kylie BAKER,GUM,female,9.7,8.0,17.7
+ka kei CHU,MAC,female,9.7,0.0,0.0
 shin yee CHEN,MAS,female,9.7,11.0,20.7
+laura FARHAT DE ARAUJO FRAGA TIMO,BRA,female,9.5,1.0,10.5
 anna BOLIUS,AUT,female,8.0,0.0,0.0
 jingyu LI,CHN,female,8.0,0.0,0.0
+arta CELITANE,LAT,female,7.7,0.0,0.0
 viktorie KONECNA,CZE,female,7.7,0.0,0.0
 marketa JANOSOVA,CZE,female,7.7,26.0,33.7
-arta CELITANE,LAT,female,7.7,0.0,0.0
 arantza LUNA VELASCO,MEX,female,7.0,0.0,0.0
 natalia de jesús GONZÁLEZ,MEX,female,7.0,0.0,0.0
 bianka JANECKA,POL,female,7.0,0.0,0.0
 irina DAZIANO,ITA,female,7.0,0.0,0.0
+roxy PERRY,AUS,female,6.5,40.5,43.0
 ariane FRANKEN,AUT,female,6.5,0.0,0.0
 evdoxia-aikaterini KALLIA,GRE,female,6.5,0.0,0.0
 tahani ALGOUHI,KSA,female,6.5,0.0,0.0
-roxy PERRY,AUS,female,6.5,157.5,156.0
-nonoha KUME,JPN,female,6.0,6.0,0.0
-valeri KREMER,ISR,female,6.0,107.0,98.0
-louise FLOCKHART,GBR,female,6.0,0.0,0.0
-anja SANTINI MIKULIĆ,CRO,female,6.0,5.5,11.5
 si wan LEI,MAC,female,6.0,11.0,17.0
 regine STORÅ,NOR,female,6.0,0.0,0.0
 yun-shan HSIEH,TPE,female,6.0,5.0,11.0
-mariana HANGGI CORREIA,BRA,female,5.0,0.0,0.0
+louise FLOCKHART,GBR,female,6.0,0.0,0.0
+nonoha KUME,JPN,female,6.0,6.0,0.0
+anja SANTINI MIKULIĆ,CRO,female,6.0,5.5,11.5
+valeri KREMER,ISR,female,6.0,107.0,98.0
+ziqi elly GAO,HKG,female,5.0,6.0,11.0
 rosa ARNOLD,FIN,female,5.0,0.0,0.0
 regina SALAZAR PUGA,MEX,female,5.0,0.0,0.0
 tihana PICOT,AUS,female,5.0,0.0,0.0
@@ -485,6 +447,7 @@ laura LOIKAS,FIN,female,4.3,0.0,0.0
 katharina BERGMANN,AUT,female,2.8,0.0,0.0
 karla ZRINSKI,CRO,female,2.8,10.0,12.8
 valissya MAY,BUL,female,2.8,3.0,5.8
+alejandra CONTRERAS,CHI,female,2.0,14.0,16.0
 prateeksha ARUN,IND,female,2.0,0.0,0.0
 federica PAPETTI,ITA,female,1.5,8.0,9.5
 sina WILLY,AUT,female,1.0,0.0,0.0
@@ -493,6 +456,7 @@ ariane JANATA-BURNS,RSA,female,1.0,0.0,0.0
 mei KOTAKE,JPN,female,0.0,2558.0,0.0
 mattea PÖTZI,AUT,female,0.0,2470.0,0.0
 natsumi ODA,JPN,female,0.0,1612.0,0.0
+flora OBLASSER,AUT,female,0.0,1590.0,0.0
 natsuki TANII,JPN,female,0.0,1580.0,0.0
 camille POUGET,FRA,female,0.0,1325.0,0.0
 rosa REKAR,SLO,female,0.0,1291.0,0.0
@@ -503,21 +467,16 @@ ina PLASSOUX DJIGA,FRA,female,0.0,471.0,0.0
 lana SKUSEK,SLO,female,0.0,357.0,0.0
 eva maria HAMMELMÜLLER,AUT,female,0.0,301.0,0.0
 juha KIM,KOR,female,0.0,257.0,0.0
-olivia MA,USA,female,0.0,200.0,0.0
 liv EGLI,SUI,female,0.0,165.5,0.0
 ilaria SCOLARIS,ITA,female,0.0,145.5,0.0
 momoka MIYAJIMA,JPN,female,0.0,136.0,0.0
 martina DEMMEL,GER,female,0.0,113.0,0.0
 rebecca FRANGOS,CAN,female,0.0,103.5,0.0
-ignacia MELLADO QUINTEROS,CHI,female,0.0,103.0,0.0
 seuran HAN,KOR,female,0.0,88.7,0.0
-camila GONZALEZ,CHI,female,0.0,86.0,0.0
 sukma LINTANG CAHYANI,INA,female,0.0,84.0,0.0
 julia CHANOURDIE,FRA,female,0.0,79.0,0.0
 nolwenn ARC,FRA,female,0.0,73.0,0.0
-cedar PIDGEON,CAN,female,0.0,70.0,0.0
 ai TAKEUCHI,JPN,female,0.0,49.0,0.0
-saray GARCIA,COL,female,0.0,48.0,0.0
 melina COSTANZA,USA,female,0.0,47.0,0.0
 chaeyeong KIM,KOR,female,0.0,42.0,0.0
 magdalena KOMPEIN,AUT,female,0.0,42.0,0.0
@@ -529,25 +488,25 @@ tereza SIRUCKOVA,CZE,female,0.0,33.7,0.0
 clotilde PFISTER,FRA,female,0.0,30.5,0.0
 anika DEUBLER,AUT,female,0.0,30.0,0.0
 emma BERNHARD,GER,female,0.0,25.0,0.0
-isabella GARCIA,COL,female,0.0,24.0,0.0
 joanna NEAME,GBR,female,0.0,19.0,0.0
 nika POTAPOVA,UKR,female,0.0,18.0,0.0
-lana BONNAL,FRA,female,0.0,17.0,0.0
 julia BENACH ZUBERO,ESP,female,0.0,17.0,0.0
+lana BONNAL,FRA,female,0.0,17.0,0.0
 kintana ILTIS,FRA,female,0.0,15.0,0.0
 lana GORIC,SLO,female,0.0,14.0,0.0
 lucie WATILLON,BEL,female,0.0,14.0,0.0
-esti TWEG,AUS,female,0.0,12.0,0.0
-zala MLAKAR STARIC,SLO,female,0.0,11.0,0.0
 yongshan HUANG,CHN,female,0.0,11.0,0.0
+olivia MA,USA,female,0.0,11.0,0.0
+zala MLAKAR STARIC,SLO,female,0.0,11.0,0.0
+cedar PIDGEON,CAN,female,0.0,11.0,0.0
 sarah FEICHTENSCHLAGER,AUT,female,0.0,10.0,0.0
 joëlle NIEDERBERGER,SUI,female,0.0,10.0,0.0
 rowaida ALERWI,KSA,female,0.0,9.0,0.0
-bianca DE MAGALHAES DE CASTRO,BRA,female,0.0,8.0,0.0
 victoria YSRAEL,GUM,female,0.0,8.0,0.0
 alyssa KEANINI,USA,female,0.0,7.0,0.0
 jingjing MAO,CHN,female,0.0,7.0,0.0
 zihan HUANG,CHN,female,0.0,7.0,0.0
+martina CASTRO,CHI,female,0.0,7.0,0.0
 tseng-shun WONG,HKG,female,0.0,6.0,0.0
 molly DREHER,CAN,female,0.0,6.0,0.0
 olivia OGIER,USA,female,0.0,6.0,0.0
