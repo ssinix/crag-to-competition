@@ -1,0 +1,552 @@
+name,country,gender,boulder_points,lead_points,combined_points,highest_grade,count_8c_plus,avg_grade_first5
+Sorato Anraku,JPN,male,3835.0,2281.0,6508.0,,,
+Dohyun Lee,KOR,male,3708.0,2123.0,4710.0,,,
+Meichi Narasaki,JPN,male,3055.0,,,,,
+Sohta Amagasa,JPN,male,2967.0,,,,,
+Tomoa Narasaki,JPN,male,2459.0,415.0,2860.0,,,
+Sam Avezou,FRA,male,2068.0,2977.0,3848.0,,,
+Toby Roberts,GBR,male,1995.0,2380.0,6180.0,,,
+Mejdi Schalck,FRA,male,1753.0,738.0,1923.0,26.0,10.0,23.33
+Dayan Akhtar,GBR,male,1556.0,,,,,
+Maximillian Milne,GBR,male,1528.0,75.0,1528.0,,,
+Paul Jenft,FRA,male,1474.5,1200.0,3033.0,25.0,8.0,22.88
+Manuel Cornu,FRA,male,1405.0,,,,,
+Ritsu Kayotani,JPN,male,1293.0,,,,,
+Yuji Fujiwaki,JPN,male,1291.0,,,,,
+Anze Peharc,SLO,male,1283.0,162.0,947.0,21.0,,19.78
+Adam Ondra,CZE,male,1185.0,1185.0,2918.0,29.0,388.0,25.54
+Jongwon Chon,KOR,male,1051.5,208.0,1084.5,,,
+Thomas Lemagner,FRA,male,1050.5,,,,,
+Yannick Flohé,GER,male,893.0,943.0,2388.0,26.0,12.0,23.56
+Oscar Baudrand,CAN,male,864.0,449.0,998.0,,,
+Colin Duffy,USA,male,852.5,1610.0,3987.5,25.0,5.0,22.58
+Adam Shahar,USA,male,850.5,,,,,
+Samuel Richard,FRA,male,847.0,,,23.0,,21.5
+Alberto Ginés López,ESP,male,831.0,1286.0,2579.0,25.0,14.0,22.62
+Jakob Schubert,AUT,male,827.5,1000.0,3552.5,26.0,26.0,23.21
+Jan-Luca Posch,AUT,male,795.5,,,24.0,1.0,23.33
+Nikolay Rusev,BUL,male,761.5,78.0,720.5,26.0,7.0,23.0
+Elias Arriagada Krüger,GER,male,722.5,,,25.0,1.0,21.4
+Hannes Van Duysen,BEL,male,658.0,553.0,1308.0,19.0,,19.0
+Sascha Lehmann,SUI,male,593.5,2068.0,2213.0,25.0,15.0,22.57
+Ardch Intrachupongse,THA,male,584.0,,,,,
+Leo Favot,FRA,male,581.0,,,,,
+Gregor Vezonik,SLO,male,550.7,,,25.0,1.0,20.92
+Thorben Perry Bloem,GER,male,545.5,,,,,
+Timotej Romšak,SLO,male,531.5,,,,,
+Yoshiyuki Ogata,JPN,male,513.2,1238.5,1441.2,,,
+Oren Prihed,ISR,male,508.0,,,,,
+Satone Yoshida,JPN,male,502.0,2069.0,1896.5,,,
+Nicolai Uznik,AUT,male,467.5,158.0,467.5,24.0,2.0,21.56
+Nicolò Sartirana,ITA,male,461.7,,,,,
+Hamish Mcarthur,GBR,male,403.0,403.0,1766.0,,,
+Alexander Megos,GER,male,378.0,1183.0,1883.0,26.0,99.0,23.97
+Yufei Pan,CHN,male,367.0,446.0,1320.0,,,
+Charles Barron,USA,male,362.0,,,22.0,,22.0
+Benjamin Hanna,USA,male,359.5,6.7,363.2,,,
+Julien Clémence,SUI,male,346.8,,,,,
+Rei Sugimoto,JPN,male,325.0,,,,,
+Nicolas Collin,BEL,male,321.0,243.0,378.0,15.0,,13.0
+Kodai Yamada,JPN,male,318.7,,,,,
+Max Kleesattel,GER,male,317.0,,,,,
+Guillermo Peinado Franganillo,ESP,male,294.5,848.0,1085.0,21.0,,17.76
+Slav Kirov,BUL,male,288.0,27.0,315.0,21.0,,18.94
+Edvards Gruzitis,LAT,male,282.5,15.0,270.5,,,
+Antoine Girard,FRA,male,275.0,,,19.0,,17.67
+Luka Potocar,SLO,male,270.0,911.0,1413.0,,,
+Matthew Rodriguez,CAN,male,267.5,,,,,
+Filip Schenk,ITA,male,260.7,1123.0,969.7,25.0,13.0,22.36
+Ziqi Xu,CHN,male,260.0,,,,,
+Dylan Parks,AUS,male,255.3,24.0,255.0,26.0,8.0,23.24
+Benjamin Vargas,CHI,male,248.5,22.0,258.5,20.0,,19.5
+Junzhe Hu,CHN,male,236.5,69.3,302.5,,,
+Malo Gilly-Eydoux,AUS,male,225.0,,,,,
+Nimrod Marcus,ISR,male,222.5,216.0,222.5,,,
+Yejun Chon,KOR,male,217.4,,,,,
+Hugo Hoyer,USA,male,217.2,22.0,232.7,20.0,,17.36
+Andreas Hofherr,AUT,male,216.5,,,,,
+Simon Lorenzi,BEL,male,201.5,168.0,201.5,,,
+Ram Levin,ISR,male,191.0,,,23.0,,19.27
+Ido Fidel,ISR,male,185.7,,,,,
+Luke Goh Wen Bin,SGP,male,181.0,4.0,178.0,,,
+Jack Macdougall,GBR,male,178.0,51.0,178.0,,,
+Yannick Nagel,GER,male,172.8,312.0,318.8,19.0,,16.09
+Sam Lavender,AUS,male,171.0,,,,,
+Diego Lequerica Buscaglia,PER,male,160.0,,,,,
+Adrien Lemaire,FRA,male,154.5,,,,,
+Geva Levin,ISR,male,154.0,10.0,150.5,,,
+Lukas Mokrolusky,CZE,male,151.5,15.5,167.0,23.0,,20.33
+Yunchan Song,KOR,male,151.0,151.0,151.0,,,
+Campbell Harrison,AUS,male,146.5,26.0,597.5,,,
+Jiahao Fu,CHN,male,145.0,,,,,
+Christian Wagner,CHI,male,141.7,,,16.0,,13.58
+Aiden Yanev,AUS,male,138.0,,,,,
+Bharath Pereira,IND,male,137.0,1.0,138.0,,,
+Alexander Waller,USA,male,130.0,,,24.0,2.0,20.13
+Ravianto Ramadhan,INA,male,124.0,281.5,349.5,,,
+Jonas Utelli,SUI,male,116.0,1207.0,1119.0,24.0,1.0,22.43
+Louis Fechoz,AUS,male,115.0,,,,,
+Taiga Sakamoto,JPN,male,112.5,,,,,
+Keita Dohi,JPN,male,111.0,,,,,
+Cheuk-Hei Ho,HKG,male,111.0,,,,,
+Chih-En Fan,TPE,male,109.3,90.0,192.3,,,
+Stefano Ghisolfi,ITA,male,109.0,1069.0,1069.0,28.0,90.0,25.24
+Stefan Scherz,AUT,male,108.0,446.5,446.5,26.0,15.0,23.09
+Simon Hibbeler,USA,male,108.0,,,,,
+Cheung-Chi Shoji Chan,HKG,male,105.0,35.5,140.5,,,
+Joaquin Urrutia,CHI,male,104.5,23.0,124.5,,,
+Noé Moutault,FRA,male,104.0,,,,,
+Maxim Pare,AUS,male,99.5,,,,,
+Zan Lovenjak Sudar,SLO,male,99.0,31.0,99.0,24.0,1.0,21.52
+Kito Martini,FRA,male,96.5,,,,,
+Hannes Puman,SWE,male,95.0,158.0,174.0,23.0,,20.31
+Tim Würthner,GER,male,94.0,,,22.0,,20.0
+Raffael Gruber,AUT,male,85.7,,,19.0,,19.0
+Niccolò Antony Salvatore,ITA,male,82.4,,,,,
+Thor Villegas García,MEX,male,79.0,,,,,
+Martin Bergant,SLO,male,74.0,118.3,115.0,25.0,4.0,21.95
+Martin Stranik,CZE,male,74.0,526.0,480.0,21.0,,19.67
+Timo Uznik,AUT,male,71.8,166.0,237.8,23.0,,20.46
+Paul Brand,NED,male,71.0,,,22.0,,19.12
+Marley Farquharson,AUS,male,69.0,,,,,
+Rodrigo Iasi Hanada,BRA,male,67.0,19.5,86.5,23.0,,19.27
+Nathan Martin,LUX,male,61.2,,,,,
+Jinwei Yao,CHN,male,61.0,55.0,116.0,,,
+Chi-Fung Au,HKG,male,58.0,,,,,
+Joshua Damasco,AUS,male,57.0,,,,,
+Simone Mabboni,ITA,male,57.0,,,,,
+Raviandi Ramadhan,INA,male,56.0,258.0,278.0,,,
+Zach Richardson,CAN,male,53.3,,,,,
+Ka-Chun Yau,HKG,male,53.0,,,,,
+Hugo Martín Álvarez,ESP,male,53.0,,,,,
+Dillon Countryman,USA,male,52.0,,,,,
+Yuval Shemla,ISR,male,51.0,355.0,344.0,20.0,,19.5
+Alex Khazanov,ISR,male,49.0,49.0,49.0,25.0,6.0,22.77
+Jesse Ruffini,AUS,male,48.0,,,,,
+Pietro Vidi,ITA,male,41.0,,,25.0,9.0,22.26
+Ronny Escobar,CHI,male,41.0,,,,,
+Guy Mcnamee,CAN,male,40.5,2.0,42.5,,,
+Ben Abel,AUS,male,40.0,,,,,
+Matic Kotar,SLO,male,36.5,,,,,
+Darius Râpă,ROU,male,35.5,35.0,70.5,,,
+Xuanpu Bai,CHN,male,35.5,,,,,
+Hyunseung Noh,KOR,male,35.5,42.0,77.5,,,
+Dylan Smith,CAN,male,35.0,,,20.0,,17.3
+Iman Arezeh,IRI,male,35.0,,,,,
+Luka Sugimoto-Faulkner,NZL,male,33.0,,,,,
+Alexandru-Florian Zaharia,ROU,male,30.4,,,,,
+Sean Mccoll,CAN,male,29.0,29.0,29.0,,,
+Michael O'Neill,IRL,male,27.5,1.0,28.5,,,
+Max Thomas,AUS,male,27.0,,,17.0,,14.1
+Yonatan Katz,ISR,male,27.0,,,,,
+Jack Burningham,RSA,male,25.5,,,,,
+Chua Dennis,SGP,male,23.7,,,,,
+Marcello Bombardi,ITA,male,21.0,58.0,58.0,26.0,28.0,23.07
+Dylan Soin,AUS,male,21.0,12.5,33.5,,,
+Ian Tan,CAN,male,21.0,,,19.0,,15.81
+Lasse Von Freier,GER,male,18.0,,,,,
+Giorgio Tomatis,ITA,male,18.0,554.5,398.0,27.0,20.0,23.12
+Dante Caballero,CHI,male,18.0,5.0,23.0,,,
+Samuel Carlos Da Silva,BRA,male,17.5,10.0,27.5,,,
+Lucas Trandafir,GER,male,17.5,,,23.0,,20.33
+Nimród Sebestyén Tusnády,HUN,male,17.0,17.3,20.3,,,
+Tomer Yakobovitch,ISR,male,17.0,,,,,
+Ned Middlehurst,AUS,male,17.0,,,,,
+Samuel Butterworth,GBR,male,16.0,,,,,
+Beomjin Park,KOR,male,16.0,,,,,
+Zach Galla,USA,male,16.0,,,21.0,,19.13
+Dragoș Gabriel Flueraru,ROU,male,16.0,,,,,
+Ali Salimian,IRI,male,15.9,,,,,
+Seungchan Choi,KOR,male,15.3,11.0,26.3,,,
+James Pope,GBR,male,15.0,15.0,15.0,16.0,,12.83
+Sungjoon Chae,KOR,male,14.8,,,,,
+Julian Wimmer,AUT,male,14.0,,,21.0,,18.22
+Ilja Auersperg,AUT,male,13.5,,,24.0,1.0,21.15
+Christopher Cosser,RSA,male,13.5,,,25.0,1.0,21.05
+Călin Enache,ROU,male,13.3,,,,,
+Felipe Ho Foganholo,BRA,male,12.0,22.5,34.5,25.0,4.0,22.19
+Finlay Cate,NZL,male,12.0,,,,,
+Peter Kuric,SVK,male,11.5,5.0,16.5,25.0,3.0,21.5
+Pietro Biagini,ITA,male,11.5,,,24.0,2.0,21.11
+Leonardo Magallanes Tejada,MEX,male,11.0,,,,,
+Qun Tao Ke,MAS,male,11.0,21.0,32.0,,,
+Tzu-Yu Chou,TPE,male,11.0,10.0,21.0,,,
+Jonas Körner,GER,male,10.5,,,9.0,,9.0
+Wan Tong Lok,MAC,male,10.3,11.0,21.3,,,
+Sungbo Seo,KOR,male,10.0,,,,,
+Gerald Bayo Verosil,SGP,male,10.0,,,,,
+Theis Lindegren Elfenbein,DEN,male,9.0,,,,,
+Mikel Paz Y Puente Hofmann,MEX,male,9.0,,,,,
+Alexander T Cvetkovski,AUS,male,9.0,,,,,
+Dohyeon Kim,KOR,male,8.7,,,,,
+Julian Schrittwieser,AUT,male,8.0,,,,,
+Michael Piccolruaz,ITA,male,7.4,,,25.0,12.0,22.09
+Taher Alhaddad,KSA,male,7.2,8.0,15.2,,,
+Mickael Mawem,FRA,male,7.0,7.0,,,,
+Kenu Puerta Wong,PER,male,7.0,,,,,
+Nathan Whaley,GBR,male,6.0,,,,,
+Alexandre Noël,BEL,male,6.0,8.0,14.0,,,
+Nathan Sato,USA,male,6.0,84.0,90.0,23.0,,20.32
+Tyler Bergin,AUS,male,6.0,,,,,
+Quitugua Michael,GUM,male,5.8,,,,,
+Aman Verma,IND,male,5.8,9.0,14.8,,,
+Vin Sukapanpotharam,THA,male,5.8,,,22.0,,18.8
+Sulaiman Alyahya,KSA,male,5.8,,,,,
+Chuluunbaatar Mandakhbayar,MGL,male,5.8,7.0,12.8,,,
+Jakub Zietek,POL,male,5.0,,,,,
+Gabriel Lancheros Poveda,COL,male,5.0,,,,,
+Joshua Gerhardt,USA,male,5.0,,,,,
+Corentin Laporte,BEL,male,4.5,5.0,9.5,,,
+Yongchen Chen,CHN,male,4.5,7.0,11.5,,,
+Jair Octavio Moreno Montoya,MEX,male,4.5,6.0,10.5,,,
+Emil Zimmermann,GER,male,4.5,,,,,
+Jan Stipek,CZE,male,4.3,142.5,146.8,25.0,2.0,21.82
+Christos Sofokleous,CYP,male,4.2,7.0,11.2,,,
+Muhammad Akif Nukman Nazrilazdin,MAS,male,4.2,,,,,
+Donovan Vicente,GUM,male,4.2,,,,,
+Azat Maikotov,KAZ,male,4.2,8.0,12.2,,,
+Axel Lindfors,FIN,male,4.0,,,,,
+William Flores,PUR,male,4.0,8.0,12.0,22.0,,18.8
+Vishak Oommen Shanker,IND,male,3.5,,,,,
+Owen Palmer,AUS,male,3.0,,,,,
+Simon Potucek,CZE,male,3.0,39.5,38.5,,,
+Rolands Rugens,LAT,male,3.0,,,20.0,,15.5
+Roman Sivakov,LTU,male,3.0,,,,,
+Gianfranco Diaz,VEN,male,3.0,,,,,
+Yousef Fatani,KSA,male,3.0,,,,,
+Man Hou Lam,MAC,male,3.0,,,,,
+Suraj Singh,IND,male,2.0,,,21.0,,15.88
+Albin Meyer,SWE,male,2.0,11.0,13.0,,,
+Hossein Familrohani,IRI,male,2.0,,,19.0,,16.67
+Meritas Babilas,LTU,male,2.0,,,,,
+Mateus Rodrigues Bellotto,BRA,male,2.0,,,,,
+Tuukka Simonen,FIN,male,2.0,,,,,
+Joshua Kyri Steliou,CYP,male,1.0,,,,,
+García Fernández Del Valle Pedro,MEX,male,1.0,,,,,
+Mark Scanlon,IRL,male,1.0,,,,,
+Per Ravlo-Caspersen,NOR,male,1.0,3.0,4.0,,,
+Filip Matejička,SVK,male,1.0,,,23.0,,20.42
+Shion Omata,JPN,male,,3030.0,,,,
+Zento Murashita,JPN,male,,2380.0,,,,
+Ao Yurikusa,JPN,male,,1745.0,,,,
+Max Bertone,FRA,male,,1743.0,,25.0,5.0,22.23
+Shuta Tanaka,JPN,male,,1547.0,,,,
+Taisei Homma,JPN,male,,1430.0,,,,
+Kibeom Kwon,KOR,male,,1345.0,,,,
+Yuta Imaizumi,JPN,male,,1338.0,,,,
+Sebastian Halenke,GER,male,,726.5,,,,
+Mototaka Ishizu,JPN,male,,724.0,,,,
+Masahiro Higuchi,JPN,male,,704.0,,,,
+Giovanni Placci,ITA,male,,660.0,,,,
+Nino Grünenfelder,SUI,male,,511.0,,25.0,3.0,22.67
+Ties Vancraeynest,BEL,male,,497.0,,,,
+Philipp Martin,GER,male,,421.0,,3.0,,3.0
+Christoph Hanke,GER,male,,363.0,,20.0,,17.32
+Jules Marchaland,FRA,male,,339.0,,27.0,33.0,24.04
+Shinyeong Yun,KOR,male,,220.0,,,,
+Hyunbin Min,KOR,male,,164.0,,,,
+Jordi Poles,FRA,male,,130.5,,23.0,,20.21
+Ross Fulkerson,USA,male,,130.0,,23.0,,20.9
+Max Dinger,GER,male,,98.0,,,,
+Jesse Grupper,USA,male,,84.0,547.0,,,
+Lucas Dufros,FRA,male,,67.0,,,,
+Arsène Duval,FRA,male,,64.0,,,,
+Hakjin Lee,KOR,male,,56.0,,,,
+Leo Avezou,FRA,male,,50.0,,,,
+Felix Mader,AUT,male,,48.0,,,,
+Dimitri Flick,SUI,male,,41.0,,26.0,11.0,22.93
+Nao Monchois,FRA,male,,39.0,,26.0,13.0,22.93
+Davide Marco Colombo,ITA,male,,37.0,,24.0,1.0,21.29
+Radin Foroughian,IRI,male,,37.0,,,,
+Lovro Črep,SLO,male,,34.5,,24.0,2.0,21.42
+Auswin Aueareechit,THA,male,,34.0,,23.0,,23.0
+Mikel Asier Linacisoro Molina,ESP,male,,32.0,,,,
+Victor Baudrand,CAN,male,,30.0,,24.0,2.0,21.64
+Milan Preskar,SLO,male,,28.0,,23.0,,20.12
+Guoqing Ni,CHN,male,,25.0,,,,
+Sanghyeon Han,KOR,male,,15.0,,,,
+Rhys Conlon,GBR,male,,15.0,,23.0,,19.95
+Johannes Hofherr,AUT,male,,14.7,,25.0,7.0,22.08
+Gorazd Jurekovic,SLO,male,,12.5,,,,
+Elliot Eriksson,SWE,male,,11.0,,20.0,,17.5
+Maël Grenier,FRA,male,,11.0,,24.0,1.0,21.67
+Seyedmohammadzaniar Ebrahimi,IRI,male,,10.0,,,,
+Poksakon Chotikkrai,THA,male,,9.0,,,,
+Muhammed Oğuz Kağanoğlu,TUR,male,,9.0,,,,
+Joseph Walmsley,GBR,male,,8.0,,,,
+Mel Janse Van Rensburg,RSA,male,,8.0,396.0,25.0,3.0,22.0
+Alexey Panfilov,KAZ,male,,8.0,,,,
+Luka Jerman,SLO,male,,7.5,,,,
+Nidhal Daqnah,KSA,male,,7.0,,,,
+Hugo Parmentier,FRA,male,,7.0,,27.0,22.0,24.17
+Declan Osgood,USA,male,,6.7,,,,
+Stanley Au,GUM,male,,6.0,,,,
+Allen Lactaoen,GUM,male,,6.0,,,,
+Mohammad Garakani,IRI,male,,6.0,,,,
+Ege Duman,TUR,male,,6.0,,22.0,,19.0
+Samo Golob,SLO,male,,5.0,,,,
+Mark Brand,NED,male,,4.0,,25.0,1.0,21.02
+Michail Volyrakis,GRE,male,,3.0,,,,
+Eliáš Kysela,SVK,male,,3.0,,25.0,8.0,22.83
+Illia Bakhmet-Smolenskyi,UKR,male,,3.0,,25.0,17.0,22.46
+Gergő Vályi,HUN,male,,2.0,,,,
+Kindar Mcnamee,CAN,male,,2.0,,,,
+Mykyta Myronenko,UKR,male,,1.0,,,,
+Marco Bauhofer,AUT,male,,1.0,,,,
+Annie Sanders,USA,female,3365.0,2590.0,4565.0,,,
+Mao Nakamura,JPN,female,2692.0,241.0,1956.0,,,
+Natalia Grossman,USA,female,2610.0,,3423.0,,,
+Oceania Mackenzie,AUS,female,2470.0,1272.0,3828.0,,,
+Erin Mcneice,GBR,female,2407.5,1730.0,4128.0,,,
+Naïlé Meignan,FRA,female,2175.0,,,,,
+Oriane Bertone,FRA,female,2065.0,48.0,3151.0,24.0,2.0,21.31
+Miho Nonaka,JPN,female,2004.0,708.0,2954.0,,,
+Anon Matsufuji,JPN,female,1898.8,,,,,
+Melody Sekikawa,JPN,female,1798.0,,,,,
+Chaehyun Seo,KOR,female,1793.0,2356.0,3851.0,,,
+Zélia Avezou,FRA,female,1777.0,1781.0,3363.0,,,
+Brooke Raboutou,USA,female,1545.0,1000.0,3558.0,23.0,,20.33
+Jennifer Eucharia Buckley,SLO,female,1535.0,560.0,2095.0,,,
+Agathe Calliet,FRA,female,1425.8,,,20.0,,18.73
+Katja Debevec,SLO,female,1415.8,27.0,867.0,,,
+Anna Maria Apel,GER,female,1184.8,,,,,
+Futaba Ito,JPN,female,1136.0,603.0,1291.0,,,
+Jessica Pilz,AUT,female,1045.0,3220.0,5140.0,26.0,7.0,22.12
+Janja Garnbret,SLO,female,1000.0,2000.0,5500.0,,,
+Lucia Dörffel,GER,female,926.0,384.0,998.0,23.0,,21.17
+Ayala Kerem,ISR,female,877.5,151.0,988.5,,,
+Sofya Yokoyama,SUI,female,861.8,,,,,
+Zhilu Luo,CHN,female,844.5,948.0,2134.5,,,
+Fanny Gibert,FRA,female,751.5,95.0,731.5,21.0,,18.89
+Alma Bestvater,GER,female,712.2,,,,,
+Kyra Condie,USA,female,710.2,58.0,642.8,,,
+Lucija Tarkus,SLO,female,644.0,770.0,975.0,24.0,1.0,21.08
+Ai Mori,JPN,female,636.7,2610.0,4771.7,19.0,,19.0
+Afra Hönig,GER,female,629.5,,,18.0,,15.42
+Ievgeniia Kazbekova,UKR,female,618.0,686.0,1666.0,,,
+Yuetong Zhang,CHN,female,574.3,870.0,2133.8,,,
+Camilla Moroni,ITA,female,569.5,630.0,1517.5,22.0,,19.22
+Kylie Cullen,USA,female,515.5,46.0,519.5,22.0,,18.73
+Laura Rogora,ITA,female,505.5,2288.0,2531.0,25.0,6.0,22.29
+Madison Richardson,CAN,female,493.2,,,,,
+Giorgia Tesio,ITA,female,486.5,30.0,427.0,22.0,,19.0
+Adriene Akiko Clark,USA,female,475.0,61.0,536.0,,,
+Selma Elhadj Mimoune,FRA,female,463.5,,,,,
+Chloe Caulier,BEL,female,449.0,80.5,414.0,20.0,,18.0
+Maya Stasiuk,AUS,female,447.1,41.0,449.1,,,
+Franziska Sterrer,AUT,female,408.5,119.0,402.5,15.0,,12.15
+Lily Abriat,FRA,female,397.0,,,,,
+Mashiro Kuzuu,JPN,female,380.0,,,,,
+Mia Krampl,SLO,female,378.0,1563.0,1871.0,23.0,,20.46
+Giulia Medici,ITA,female,359.7,,,,,
+Martina Buršíková,SVK,female,333.5,32.0,326.0,,,
+Roxana Wienand,GER,female,330.5,38.0,291.0,,,
+Maya Dreamer,ISR,female,330.5,,,,,
+Natsumi Hirano,JPN,female,326.5,,,,,
+Valentina Aguado,ARG,female,305.5,194.5,461.5,,,
+Molly Thompson-Smith,GBR,female,303.0,346.0,771.0,23.0,,20.57
+Lea Kempf,AUT,female,286.8,,,,,
+Jain Kim,KOR,female,283.0,1133.0,1133.0,,,
+Lucy Garlick,GBR,female,282.8,,,,,
+Cloe Coscoy,USA,female,270.8,,,19.0,,17.5
+Andrea Kümin,SUI,female,264.3,,,23.0,,20.17
+Sara Copar,SLO,female,264.0,1194.5,1024.0,,,
+Flavy Cohaut,FRA,female,252.0,,,,,
+Lucile Saurel,FRA,female,238.0,,,,,
+Yejin Jung,KOR,female,230.5,,,,,
+Nekaia Sanders,USA,female,226.0,,,,,
+Manon Hily,FRA,female,223.0,916.5,845.5,24.0,5.0,21.26
+Stasa Gejo,SRB,female,216.0,125.0,216.0,23.0,,19.98
+Miku Ishii,JPN,female,195.8,,,,,
+Zoe Peetermans,GBR,female,189.0,,,19.0,,17.35
+Stella Giacani,ITA,female,184.0,,,,,
+Johanna Färber,AUT,female,180.0,,,,,
+Jacqueline Ho,CAN,female,172.0,,,,,
+Summer Fraser,AUS,female,167.0,,,,,
+Florence Grünewald,GER,female,163.8,,,,,
+Michaela Smetanova,CZE,female,152.0,421.0,454.0,20.0,,17.38
+Hélène Janicot,FRA,female,151.0,1381.0,1101.0,,,
+Sandra Lettner,AUT,female,149.8,,,,,
+Vita Lukan,SLO,female,146.0,889.0,816.0,24.0,2.0,21.57
+Manami Yama,JPN,female,138.0,,,,,
+Babette Roy,CAN,female,137.5,18.0,155.5,,,
+Claire Cheffings,AUS,female,132.0,,,,,
+Yejoo Seo,KOR,female,127.0,121.0,189.0,,,
+Flora Oblasser,AUT,female,121.0,1590.0,1431.0,,,
+Lisa Klem,NED,female,118.7,,,,,
+Anna Lechner,GER,female,116.5,,,,,
+Amber Schiffeleers,NED,female,116.0,,,,,
+Ingrid Kindlihagen,NOR,female,115.0,9.0,149.0,21.0,,18.27
+Gayeon Cho,KOR,female,112.5,105.0,217.5,,,
+Geila Macià Martín,ESP,female,112.0,468.0,566.0,,,
+Kaho Murakoshi,JPN,female,111.0,,,,,
+Rose Weller,AUS,female,106.0,,,,,
+Petra Klingler,SUI,female,101.0,101.0,101.0,,,
+Hannah Meul,GER,female,97.0,192.0,192.0,,,
+Anna Kelley,CAN,female,95.5,,,,,
+Alejandra Contreras,CHI,female,95.0,14.0,109.0,14.0,,11.5
+Yui Suezawa,JPN,female,95.0,,,,,
+Vanessa Si Yinn Teng,SGP,female,94.0,34.0,120.0,,,
+Natalie Goh Sihui,SGP,female,90.5,7.0,97.5,,,
+Helen Gillett,USA,female,88.5,,,,,
+Clea Hall,AUS,female,85.0,,,,,
+Ryu Nakagawa,JPN,female,84.0,84.0,84.0,,,
+Gayeong Oh,KOR,female,82.0,111.0,172.0,,,
+Valentine Mangin,FRA,female,82.0,,,,,
+Alannah Yip,CAN,female,81.0,60.0,81.0,18.0,,16.0
+Yael Taub,ISR,female,79.5,,,,,
+Ting-Chen Yao,TPE,female,77.0,15.0,92.0,,,
+Judith Carroll,AUS,female,69.0,,,,,
+Cheuk-Kei Wong,HKG,female,69.0,,,,,
+Julija Kruder,SLO,female,68.0,,,19.0,,16.3
+Maya Vásquez,CHI,female,66.5,7.0,73.5,,,
+Evangelina Briggs,CAN,female,65.0,,,,,
+Xu Liting,SGP,female,63.0,,,,,
+Alma Sapir Halevi,ISR,female,63.0,,,,,
+Yajun Huang,CHN,female,58.5,,,,,
+Hung Ying Lee,TPE,female,58.0,63.0,121.0,,,
+Ada Karlsbrun,ISR,female,57.0,,,,,
+Lianet Castillo,VEN,female,57.0,,,17.0,,14.28
+Abi Lance,AUS,female,56.0,,,,,
+Emily Scott,AUS,female,53.0,17.0,70.0,,,
+Sol Sa,KOR,female,52.0,52.0,52.0,23.0,,20.5
+Ziqi Elly Gao,HKG,female,49.0,,,,,
+Anastasiia Kobets,UKR,female,48.7,308.0,356.7,,,
+Elnaz Rekabi,IRI,female,48.0,48.0,48.0,,,
+Ema Galeova,CZE,female,46.8,12.0,81.8,21.0,,18.42
+Maeve Bradbury,AUS,female,44.0,,,,,
+Martina Castro,CHI,female,41.0,7.0,48.0,,,
+Sandra Hopfensitz,GER,female,40.5,15.0,40.5,,,
+Eilin Tan,SGP,female,37.5,,,,,
+Xuanzhen Chen,CHN,female,37.0,40.0,77.0,,,
+Francesca Matuella,ITA,female,36.8,,,,,
+Xinwen Zhu,CHN,female,35.0,80.0,115.0,,,
+Analise Van Hoang,USA,female,33.0,,,19.0,,18.33
+Noa Shiran,ISR,female,32.5,265.0,267.5,23.0,,23.0
+Ruby Danziger,ISR,female,31.5,,,,,
+Matilde Cabezas,CHI,female,29.0,13.0,42.0,,,
+Aleksandra Totkova,BUL,female,28.0,1302.0,1312.0,11.0,,7.93
+Marian Kiara Luna Micheri,ARG,female,28.0,,,19.0,,15.89
+Irina Daziano,ITA,female,27.0,,,,,
+Margarita Agambayeva,KAZ,female,26.0,25.0,51.0,19.0,,16.58
+Yali Wei,CHN,female,26.0,134.0,160.0,15.0,,11.78
+Tegwen Oates,RSA,female,25.7,20.0,35.7,13.0,,12.67
+Emma Edwards,GBR,female,25.5,,,,,
+Heeju Noh,KOR,female,25.5,,,,,
+Christel Kotze,AUS,female,25.0,,,,,
+Svana Bjarnason,ISL,female,24.1,31.0,40.3,17.0,,14.4
+Laura Farhat De Araujo Fraga Timo,BRA,female,23.5,1.0,24.5,,,
+Zoe Garcia Molina,ARG,female,23.0,,,,,
+Yawen Mi,CHN,female,23.0,,,,,
+Iziar Martínez Almendros,ESP,female,20.0,73.0,93.0,25.0,1.0,21.08
+Iris Heikkinen,FIN,female,17.7,19.0,36.7,,,
+Sunniva Øvre-Eide,NOR,female,17.3,241.0,258.3,,,
+Jordyn Damasco,AUS,female,17.0,,,,,
+Katya Lynn Brockman,MEX,female,17.0,,,,,
+Ka Kei Chu,MAC,female,16.7,,,,,
+Pernille Tvedt,NOR,female,15.0,12.0,27.0,4.0,,4.0
+Eliska Adamovska,CZE,female,13.0,22.0,22.0,,,
+Eugenie Lee,GBR,female,13.0,,,,,
+Melissa Esther Chen Chen,PER,female,13.0,9.0,22.0,,,
+Yubin Hong,KOR,female,13.0,21.0,34.0,,,
+Tahani Algouhi,KSA,female,11.5,,,,,
+Ella Fisher,USA,female,11.3,,,24.0,1.0,20.98
+Sunniva Eik Haave,NOR,female,11.3,,,18.0,,14.12
+Jiaxuan Yang,CHN,female,11.3,,,,,
+Lea Slobodová,SVK,female,11.0,,,,,
+Anja Köhler,BRA,female,11.0,60.2,64.5,,,
+Sienna Perez,USA,female,11.0,,,,,
+Niamh Alldred,AUS,female,11.0,,,,,
+Emilia Callanan,CAN,female,11.0,,,,,
+Pak Chi Sou,MAC,female,9.7,,,,,
+Shin Yee Chen,MAS,female,9.7,11.0,20.7,,,
+Kylie Baker,GUM,female,9.7,8.0,17.7,,,
+Lynn Van Der Meer,NED,female,8.0,1176.5,853.0,23.0,,19.73
+Prateeksha Arun,IND,female,8.0,,,,,
+Anna Bolius,AUT,female,8.0,,,,,
+Shareen Mohd Nasran,MAS,female,8.0,,,,,
+Viktorie Konecna,CZE,female,7.7,,,,,
+Arta Celitane,LAT,female,7.7,,,,,
+Marketa Janosova,CZE,female,7.7,26.0,33.7,23.0,,19.78
+Yixin Liu,CHN,female,7.0,,,,,
+Bianka Janecka,POL,female,7.0,,,,,
+Natalia De Jesús González,MEX,female,7.0,,,,,
+Arantza Luna Velasco,MEX,female,7.0,,,,,
+Roxy Perry,AUS,female,6.5,32.0,38.5,,,
+Ariane Franken,AUT,female,6.5,,,,,
+Evdoxia-Aikaterini Kallia,GRE,female,6.5,,,,,
+Louise Flockhart,GBR,female,6.0,,,,,
+Yun-Shan Hsieh,TPE,female,6.0,,,,,
+Nonoha Kume,JPN,female,6.0,6.0,,,,
+Anja Santini Mikulić,CRO,female,6.0,5.5,11.5,,,
+Valeri Kremer,ISR,female,6.0,107.0,98.0,,,
+Tihana Picot,AUS,female,5.0,,,,,
+Mariana Hanggi Correia,BRA,female,5.0,,,,,
+Sui Lin Renee Tan,MAS,female,5.0,,,,,
+Regina Salazar Puga,MEX,female,5.0,,,,,
+Rosa Arnold,FIN,female,5.0,,,,,
+Iris-Olivia Munteanu,ROU,female,4.3,,,,,
+Laura Loikas,FIN,female,4.3,,,,,
+Karla Zrinski,CRO,female,2.8,10.0,12.8,,,
+Valissya May,BUL,female,2.8,3.0,5.8,,,
+Katharina Bergmann,AUT,female,2.8,,,14.0,,10.69
+Si Wan Lei,MAC,female,1.5,11.0,12.5,,,
+Federica Papetti,ITA,female,1.5,8.0,9.5,,,
+Lukka Mörk Blomsterberg,ISL,female,1.0,,,,,
+Ariane Janata-Burns,RSA,female,1.0,,,,,
+Sina Willy,AUT,female,1.0,,,,,
+Mei Kotake,JPN,female,,2558.0,,,,
+Mattea Pötzi,AUT,female,,2429.0,,24.0,1.0,20.72
+Camille Pouget,FRA,female,,1325.0,,23.0,,20.8
+Rosa Rekar,SLO,female,,1291.0,,,,
+Natsumi Oda,JPN,female,,1205.0,,,,
+Tomona Takao,JPN,female,,1200.0,,,,
+Natsuki Tanii,JPN,female,,1054.0,,,,
+Heloïse Doumont,BEL,female,,1012.0,,,,
+Julia Fiser,AUT,female,,573.0,,24.0,1.0,20.72
+Ina Plassoux Djiga,FRA,female,,471.0,,,,
+Lana Skusek,SLO,female,,357.0,,23.0,,20.57
+Eva Maria Hammelmüller,AUT,female,,301.0,,8.0,,5.55
+Juha Kim,KOR,female,,257.0,,,,
+Ilaria Scolaris,ITA,female,,145.5,,,,
+Liv Egli,SUI,female,,138.5,,,,
+Momoka Miyajima,JPN,female,,136.0,,,,
+Rebecca Frangos,CAN,female,,103.5,,,,
+Seuran Han,KOR,female,,88.7,,,,
+Julia Chanourdie,FRA,female,,79.0,,,,
+Nolwenn Arc,FRA,female,,73.0,,,,
+Martina Demmel,GER,female,,49.0,,25.0,16.0,21.79
+Ai Takeuchi,JPN,female,,49.0,,,,
+Chunhua Wu,CHN,female,,48.0,,,,
+Melina Costanza,USA,female,,47.0,,19.0,,19.0
+Chaeyeong Kim,KOR,female,,42.0,,,,
+Magdalena Kompein,AUT,female,,42.0,,,,
+Claudia Ghisolfi,ITA,female,,38.5,,25.0,3.0,21.78
+Noé Looser,SUI,female,,38.0,,23.0,,19.93
+Meije Lerondel,FRA,female,,35.0,,,,
+Käthe Atkins,GER,female,,34.0,,,,
+Clotilde Pfister,FRA,female,,30.5,,,,
+Anika Deubler,AUT,female,,30.0,,,,
+Emma Bernhard,GER,female,,25.0,,,,
+Joanna Neame,GBR,female,,19.0,,,,
+Tereza Siruckova,CZE,female,,18.7,,20.0,,17.56
+Nika Potapova,UKR,female,,18.0,,25.0,1.0,21.47
+Julia Benach Zubero,ESP,female,,17.0,,,,
+Lana Bonnal,FRA,female,,17.0,,,,
+Kintana Iltis,FRA,female,,15.0,,21.0,,18.14
+Lana Goric,SLO,female,,14.0,,,,
+Lucie Watillon,BEL,female,,14.0,,22.0,,19.41
+Zala Mlakar Staric,SLO,female,,11.0,,,,
+Cedar Pidgeon,CAN,female,,11.0,,,,
+Joëlle Niederberger,SUI,female,,10.0,,,,
+Sarah Feichtenschlager,AUT,female,,10.0,,,,
+Rowaida Alerwi,KSA,female,,9.0,,,,
+Victoria Ysrael,GUM,female,,8.0,,,,
+Olivia Ogier,USA,female,,6.0,,23.0,,19.83
+Molly Dreher,CAN,female,,6.0,,,,
+Hei Kiu Heidi Wong,HKG,female,,5.0,,,,
+María Fernanda González Rámirez,MEX,female,,5.0,,20.0,,17.25
+Federica Mabboni,ITA,female,,4.0,,,,
+Quinn Mason,USA,female,,2.0,,22.0,,18.78
+Sára Šimeková,SVK,female,,2.0,,,,
+Danai Valsamidi,GRE,female,,1.0,,18.0,,15.41
