@@ -1,4 +1,4 @@
-# DSA 210 Term Project Proposal: Climbing Performance Analysis
+# DSA 210 Term Project: Climbing Performance Analysis
 
 <h3 align="center"> From Crag to Competition: Does Outdoor Sport Climbing Translate to Competitive Success?</h3>
 
