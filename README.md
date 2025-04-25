@@ -7,11 +7,11 @@
 </div>
 
 ## Motivation
-Climbing is a rapidly growing sport, with distinct communities in outdoor sport climbing and indoor competitive climbing (e.g., bouldering and lead climbing). As a climber myself and an avid follower of International Federation of Sport Climbing (IFSC) competitions, I've often wondered how performance in outdoor sport climbing correlates with success in formal competitions, such as those organized by IFSC. This project aims to explore whether skills and achievements in outdoor sport climbing, as logged by climbers on platforms like 8a.nu, translate to competitive performance in IFSC boulder and lead climbing events. Understanding this relationship could provide insights into training strategies, climber versatility, and the evolution of climbing as both a recreational and competitive sport.
+Climbing is a rapidly growing sport, with distinct communities in outdoor sport climbing and indoor competitive climbing (e.g., bouldering and lead climbing). As a climber myself and an avid follower of International Federation of Sport Climbing (IFSC) competitions, I've often wondered how performance in outdoor sport climbing correlates with success in formal competitions, such as those organized by IFSC. This project aims to explore whether skills and achievements in outdoor sport climbing, as logged by climbers on platforms like 8a.nu, translate to competitive performance in IFSC boulder and lead climbing events.
 
 # Data Collection and Analysis Process
 
-## IFSC Competition Data
+## [IFSC Competition Data](https://www.ifsc-climbing.org/)
 
 Using Python with `requests` and `BeautifulSoup`, I scraped competition results from the IFSC website, collecting the following fields:
 
@@ -24,7 +24,7 @@ Using Python with `requests` and `BeautifulSoup`, I scraped competition results 
 
 ---
 
-## 8a.nu Profile Data
+## [8a.nu Profile Data](https://www.8a.nu/)
 
 The data collection from 8a.nu was completed in two steps:
 
@@ -65,6 +65,15 @@ The analysis was conducted in two main steps:
 
 ### Hypothesis Testing (`2.2_hypothesis_testing.ipynb`)
 
-- Conducted statistical tests to evaluate the primary hypothesis about the relationship between outdoor climbing grades and competition performance  
-- Performed additional analyses to investigate secondary questions and patterns in the data  
+Conducted statistical tests to evaluate the hypotheses:
+- **Outdoor vs. Competition Performance:**
+   Do climbers with stronger outdoor climbing metrics—such as higher maximum grade or having a 8c+ ascent—also perform better in competitions?
+   *Separate hypothesis tests will be conducted for each competition discipline: bouldering, lead, and combined.*
+
+- **Interdisciplinary Competition Correlation:**
+   Is there a statistically significant correlation between performance in different IFSC competition disciplines (e.g., do high lead scores correlate with high boulder scores)?
+- **Outdoor Performance Correlation:**
+    Within outdoor climbing, is there a meaningful correlation between the metrics (e.g., do higher average grades correlate with higher best grade climbed)?
+
+
 
