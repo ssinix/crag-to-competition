@@ -9,41 +9,62 @@
 ## Motivation
 Climbing is a rapidly growing sport, with distinct communities in outdoor sport climbing and indoor competitive climbing (e.g., bouldering and lead climbing). As a climber myself and an avid follower of International Federation of Sport Climbing (IFSC) competitions, I've often wondered how performance in outdoor sport climbing correlates with success in formal competitions, such as those organized by IFSC. This project aims to explore whether skills and achievements in outdoor sport climbing, as logged by climbers on platforms like 8a.nu, translate to competitive performance in IFSC boulder and lead climbing events. Understanding this relationship could provide insights into training strategies, climber versatility, and the evolution of climbing as both a recreational and competitive sport.
 
-## Data Sources
-1. **IFSC Competition Data**
-   * https://www.ifsc-climbing.org/
-   * Official records from the IFSC, including climber names, countries, total points, years active, competition history, and rankings in boulder and lead events.
-   * Focus on major events (World Cups, Championships) from 2020–2024, targeting data for 100–200 unique competitors.
+# Data Collection and Analysis Process
 
-2. **Outdoor Climbing Profiles (8a.nu & The Crag)**
-   * https://www.8a.nu/
-   * https://www.thecrag.com/en/home
-   * User-generated data from 8a.nu and The Crag, featuring climber profiles and ascent logs (e.g., route grades, dates, ascent types like onsight or redpoint).
-   * Aiming to match approximately 50 IFSC climbers with accounts on these platforms, focusing on active users with detailed ascent histories.
+## IFSC Competition Data
 
-3. **Additional Resources**
-   * Social media accounts (e.g., X, Instagram) may be leveraged if needed for supplement data.
+Using Python with `requests` and `BeautifulSoup`, I scraped competition results from the IFSC website, collecting the following fields:
 
-## Data Collection Plan
-1. **IFSC Scraping**
-   * **Method**: Use Python with requests and BeautifulSoup to extract competition results from the IFSC website.
-   * **Challenges**: Name standardization across sources (e.g., "John Doe" vs. "J. Doe") will require careful cleaning.
+- **name**: Climber's name  
+- **country**: Climber's country  
+- **gender**: Climber's gender  
+- **boulder_points**: Points in boulder discipline  
+- **lead_points**: Points in lead discipline  
+- **combined_points**: Points in combined discipline  
 
-2. **8a.nu & The Crag Scraping**
-   * **Method**: Automate searches on 8a.nu and The Crag using IFSC climber names, employing Python scripts (potentially with selenium for dynamic pages) to scrape matching profiles and ascent data.
-   * **Challenges**:
-       * Limited overlap due to generational shifts in platform.
-       * Empty or inactive accounts.
-       * Manual verification may be needed for ambiguous matches.
+---
 
-3. **Data Enrichment and Linking**
-   * **Approach**: Merge IFSC and outdoor datasets by matching climber names and other identifiers (e.g., nationality), using pandas for data handling and fuzzywuzzy for fuzzy name matching.
-   * **Output**: A unified dataset with columns such as climber ID, outdoor ascent grades, competition rankings, and participation frequency.
+## 8a.nu Profile Data
 
-## Hypotheses
-**The primary hypothesis** is: *"Climbers with higher outdoor sport climbing grades (e.g., 8a or above) exhibit stronger performance in IFSC boulder and lead competitions."* This will be tested by comparing outdoor climbing difficulty (e.g., route grades) with competition metrics (e.g., rankings, qualification success rates).
+The data collection from 8a.nu was completed in two steps:
 
-**Additional hypotheses** include:
+### Profile Finding (`1.2_8anu_profile_finder.ipynb`)
 
-* *"Among younger climbers, fewer maintain active accounts on 8a.nu and The Crag, reflecting a shift in popularity from outdoor sport climbing to indoor bouldering and competitive climbing."* This could be explored by analyzing the age distribution of climbers with outdoor profiles versus their competitive activity.
-* *"Taller climbers, as identified through height data from 8a.nu profiles (if available), achieve higher outdoor grades or rank higher in IFSC competitions."* This hypothesis would depend on successfully extracting height information and could reveal physical influences on climbing performance.
+- Used **Selenium** for web automation to search for IFSC climbers on 8a.nu  
+- Employed **fuzzy string matching** to find the most relevant profiles based on name similarity  
+- Addressed challenges of name standardization across platforms  
+
+### Profile Scraping (`1.3_8anu_profile_scraper.ipynb`)
+
+Used **Selenium** and **BeautifulSoup** to extract key performance metrics:
+
+- **Highest Grade Climbed**: The most difficult route completed (converted to a linear scale)  
+- **8c+ and Above Ascent Count**: Total number of ascents at grade 8c+ or higher  
+- **Average Grade**: Weighted average of the first 5 unique grades to avoid skewing by numerous lower-grade ascents  
+
+---
+
+## Data Merging
+
+In the final data collection step (`1.4_merge_data.ipynb`), I merged IFSC and 8a.nu data to create a comprehensive dataset with all collected metrics:
+
+- IFSC competition metrics (boulder, lead, and combined points)  
+- Outdoor climbing performance metrics (highest grade, count of 8c+ routes, average grade of first five ascents)  
+
+---
+
+## Analysis Process
+
+The analysis was conducted in two main steps:
+
+### Exploratory Data Analysis (`2.1_EDA.ipynb`)
+
+- Explored relationships between outdoor climbing metrics and competition performance  
+- Analyzed distributions and correlations between variables  
+- Created visualizations to identify patterns and insights  
+
+### Hypothesis Testing (`2.2_hypothesis_testing.ipynb`)
+
+- Conducted statistical tests to evaluate the primary hypothesis about the relationship between outdoor climbing grades and competition performance  
+- Performed additional analyses to investigate secondary questions and patterns in the data  
+
