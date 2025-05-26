@@ -4,14 +4,12 @@ selenium
 webdriver-manager
 os
 fuzzywuzzy
-
 pandas
 numpy
-
 matplotlib
 seaborn
-
 scipy
-
 pycountry
 pycountry-convert
+scikit-learn
+xgboost
