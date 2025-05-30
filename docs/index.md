@@ -75,8 +75,8 @@ The boulder_points data ranges from 0 to 3380, with most values below 1000. Lead
 Performance patterns were examined across different geographic regions to understand global climbing trends:
 
 <div align="center">
-    <img src="assets/comp-by-region.png" alt="Competition Performance by Region" width="400" style="margin: 0 20px;">
-    <img src="assets/outdoor-by-region.png" alt="Outdoor Performance by Region" width="400" style="margin: 0 20px;">
+    <img src="assets/comp-by-region.png" alt="Competition Performance by Region" width="300" style="margin: 0 20px;">
+    <img src="assets/outdoor-by-region.png" alt="Outdoor Performance by Region" width="300" style="margin: 0 20px;">
 </div>
 
 Regional analysis revealed variations in both competition participation and outdoor climbing achievement across different countries and continents.
@@ -120,15 +120,10 @@ Predictive models were developed to forecast competition performance using outdo
 - **XGBoost**: 297.63 RMSE with 10-fold cross-validation (4.6% of target range)
 
 <div align="center">
-    <img src="assets/linreg.png" alt="Linear Regression: Actual vs. Predicted" width="400" style="margin: 0 20px;">
-    <img src="assets/xgboost.png" alt="Outdoor Performance by Region" width="400" style="margin: 0 20px;">
+    <img src="assets/linreg.png" alt="Linear Regression: Actual vs. Predicted" width="300" style="margin: 0 20px;">
+    <img src="assets/xgboost.png" alt="Outdoor Performance by Region" width="300" style="margin: 0 20px;">
 </div>
 
 The XGBoost model significantly outperformed linear regression across all validation methods, demonstrating the value of ensemble methods for this prediction task. However, the limited explanatory power (6-11% of variance explained) suggests that outdoor climbing performance, while statistically significant, represents only one component of competitive climbing success.
 
 ---
-
-**Key Findings:**
-- Outdoor climbing metrics show limited but significant correlation with competition performance
-- The 8c+ achievement threshold serves as a strong indicator of competition success across all disciplines
-- Strong inter-discipline correlations within IFSC competitions suggest effective skill transfer between different competitive formats
