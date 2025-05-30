@@ -3,10 +3,10 @@
 /* First, let's target the main wrapper more specifically */
 body .wrapper {
   display: grid !important;
-  grid-template-columns: 280px 1fr !important;
+  grid-template-columns: 280px minmax(0, 800px) !important;
   gap: 3rem !important;
-  max-width: 1400px !important;
-  margin: 2rem !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
   align-items: start !important;
   padding: 2rem !important;
   width: 100% !important;

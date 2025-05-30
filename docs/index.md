@@ -6,6 +6,8 @@
 
 Climbing is a rapidly growing sport, with distinct communities in outdoor sport climbing and indoor competitive climbing (e.g., bouldering and lead climbing). As a climber myself and an avid follower of International Federation of Sport Climbing (IFSC) competitions, I've often wondered how performance in outdoor sport climbing correlates with success in formal competitions, such as those organized by IFSC. This project aims to explore whether skills and achievements in outdoor sport climbing, as logged by climbers on platforms like 8a.nu, translate to competitive performance in IFSC boulder and lead climbing events.
 
+---
+
 ## Data Collection
 
 ### Data Sources
@@ -29,9 +31,7 @@ The data collection process consisted of four main steps:
 
 4. **Data Merging**: Combined IFSC competition data with 8a.nu outdoor climbing metrics, resulting in a final dataset of **551 climbers** with both competition and outdoor climbing performance data.
 
-<div align="center">
-    <img src="https://i.ytimg.com/vi/o-mvzn_QjAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBaxSam--CADcyJDUBMQII2jui5hw" alt="Brooke Rabotou" width="300">
-</div>
+---
 
 ## Analysis
 
@@ -92,6 +92,7 @@ The relationship between outdoor and competition climbing was explored through c
 
 The heatmap reveals modest correlations between competition points and outdoor climbing metrics. However, stronger correlations appear within competition disciplines themselves and among outdoor climbing metrics. The statistical significance of these observed correlations was formally tested in the hypothesis testing phase.
 
+---
 
 ### Hypothesis Testing
 
@@ -107,9 +108,7 @@ Statistical analysis was conducted across five key research hypotheses:
 
 5. **Outdoor Metrics Correlations**: Strong correlation between highest grade achieved and average grade demonstrated consistency in outdoor climbing performance across athletes.
 
-<div align="center">
-    <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1499553343.jpg?c=original" alt="Janja Garnbret" width="300">
-</div>
+---
 
 ## Machine Learning
 
@@ -122,10 +121,12 @@ Predictive models were developed to forecast competition performance using outdo
 
 <div align="center">
     <img src="assets/linreg.png" alt="Linear Regression: Actual vs. Predicted" width="400" style="margin: 0 20px;">
-    <img src="assets/outdoor-by-region.png" alt="Outdoor Performance by Region" width="400" style="margin: 0 20px;">
+    <img src="assets/xgboost.png" alt="Outdoor Performance by Region" width="400" style="margin: 0 20px;">
 </div>
 
 The XGBoost model significantly outperformed linear regression across all validation methods, demonstrating the value of ensemble methods for this prediction task. However, the limited explanatory power (6-11% of variance explained) suggests that outdoor climbing performance, while statistically significant, represents only one component of competitive climbing success.
+
+---
 
 **Key Findings:**
 - Outdoor climbing metrics show limited but significant correlation with competition performance
