@@ -33,6 +33,16 @@ The data collection process consisted of four main steps:
 
 ---
 
+<div align="center">
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1499553343.jpg?c=original" alt="Janja Garnbret" style="margin: 0 20px; max-width: 60%">
+    <p style="font-size: 14px; color: #555; margin-top: 8px;">
+        Janja Garnbret in IFSC Climbing World Cup on June 18, 2023 in Innsbruck, Austria. Marco Kost/Getty Images
+    </p>
+</div>
+
+
+---
+
 ## Analysis
 
 ### Exploratory Data Analysis
@@ -110,20 +120,58 @@ Statistical analysis was conducted across five key research hypotheses:
 
 ---
 
+<div align="center">
+    <img src="https://cdn.climbing.com/wp-content/uploads/2025/04/IMG_0488-scaled.jpeg?width=730" alt="Brooke Raboutou" style="margin: 0 20px; max-width: 40%">
+    <p style="font-size: 14px; color: #555; margin-top: 8px;">
+        Brooke Raboutou climbing Excalibur, becoming the first woman to climb 5.15c
+    </p>
+</div>
+
+---
+
 ## Machine Learning
 
-Predictive models were developed to forecast competition performance using outdoor climbing metrics as features. Two primary approaches were implemented:
+Machine Learning models were developed to predict a climber’s performance in a selected IFSC discipline; **bouldering**, **lead**, or **combined** using their climbing performance in competitions and outdoors.
 
-**Model Performance Comparison:**
-- **Baseline RMSE**: 879.60 (mean prediction)
-- **Linear Regression**: ~450 RMSE (representing 7% of target range)
-- **XGBoost**: 297.63 RMSE with 10-fold cross-validation (4.6% of target range)
+Two regression models are implemented to perform this task:
+- **Linear Regression**
+- **XGBoost Regressor** 
+
+Given the small size of the dataset, the models are evaluated using multiple cross-validation methods:
+- 5-Fold Cross-Validation
+- 10-Fold Cross-Validation
+- Leave-One-Out Cross-Validation
+
+For the XGBoost model, hyperparameter tuning is performed using **GridSearchCV**, selecting the best parameter combination based on cross-validated performance.
+
+### Results
+For the combined discipline the results were:
+ 
+**Value Range:** 0.00 to 6508.00
+
+| Model | Cross-Validation Method | RMSE |
+|-------|------------------------|------|
+| Baseline (Mean Guess) | - | 879.60 |
+| Linear Regression | 5-Fold CV | 449.02 |
+| Linear Regression | 10-Fold CV | 450.43 |
+| Linear Regression | Leave-One-Out CV | 223.03 |
+| XGBoost | 5-Fold CV | 347.33 |
+| XGBoost | 10-Fold CV | 297.63 |
+| XGBoost | Leave-One-Out CV | 88.45 |
 
 <div align="center">
     <img src="assets/linreg.png" alt="Linear Regression: Actual vs. Predicted" width="300" style="margin: 0 20px;">
     <img src="assets/xgboost.png" alt="Outdoor Performance by Region" width="300" style="margin: 0 20px;">
 </div>
 
-The XGBoost model significantly outperformed linear regression across all validation methods, demonstrating the value of ensemble methods for this prediction task. However, the limited explanatory power (6-11% of variance explained) suggests that outdoor climbing performance, while statistically significant, represents only one component of competitive climbing success.
+The results show that XGBoost consistently outperforms Linear Regression across all cross-validation methods, with particularly strong performance in Leave-One-Out CV (RMSE of 88.45 vs 223.03 for Linear Regression).
 
 ---
+
+## Limitations and Future Work
+
+- **Small dataset**: 551 climbers limits analysis and model robustness
+- **Limited IFSC features**: Could scrape additional athlete data (age, experience, competition history) from individual athlete pages
+  - IFSC athlete profile URLs require unique IDs not easily derivable from rankings
+- **Ranking vs. points**: Average ranking might be more meaningful than total points, which depends on the number of competitions
+- **Outdoor scope**: Analysis limited to sport climbing; 8a.nu scraping could include outdoor bouldering data
