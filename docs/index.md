@@ -1,4 +1,4 @@
-# From Crag to Competition: Does Outdoor Sport Climbing Translate to Competitive Success?
+# Does Outdoor Sport Climbing Translate to Competitive Success?
 
 ## Motivation
 
@@ -9,8 +9,8 @@ Climbing is a rapidly growing sport, with distinct communities in outdoor sport 
 ### Data Sources
 
 <div align="center">
-    <img src="docs/assets/ifsc-logo.webp" alt="IFSC Logo" width="200" style="margin: 0 20px;">
-    <img src="docs/assets/8anu-logo.png" alt="8a.nu Logo" width="200" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="200" style="margin: 0 20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="200" style="margin: 0 20px;">
 </div>
 
 This project combines data from two primary sources: the International Federation of Sport Climbing (IFSC) for competition performance metrics, and 8a.nu for outdoor climbing achievements.
@@ -26,6 +26,10 @@ The data collection process consisted of four main steps:
 3. **Scraping 8a.nu Profiles**: Employed Selenium to scrape outdoor climbing data from matched profiles, extracting highest grade climbed, count of 8c+ ascents, and average grade of first 5 unique ascents.
 
 4. **Data Merging**: Combined IFSC competition data with 8a.nu outdoor climbing metrics, resulting in a final dataset of **551 climbers** with both competition and outdoor climbing performance data.
+
+<div align="center">
+    <img src="https://i.ytimg.com/vi/o-mvzn_QjAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBaxSam--CADcyJDUBMQII2jui5hw" alt="Brooke Rabotou" width="200" style="margin: 0 20px;">
+</div>
 
 ## Analysis
 
