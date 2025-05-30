@@ -55,12 +55,6 @@ Built predictive models for competition performance using Linear Regression and 
 
 XGBoost significantly outperformed linear regression across all validation methods.
 
-## Key Findings
-
-- **Limited but significant relationship**: Outdoor climbing metrics correlate with competition performance, but explain only 6-11% of variance in competition results
-- **8c+ threshold**: Achieving 8c+ outdoors is a strong indicator of competition success across all disciplines
-- **Inter-discipline transfer**: Strong correlations between IFSC disciplines suggest effective skill transfer
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -93,6 +87,6 @@ jupyter notebook
 - **Small dataset**: 551 climbers limits analysis and model robustness
 - **Limited IFSC features**: Could scrape additional athlete data (age, experience, competition history) from individual athlete pages
   - IFSC athlete profile URLs require unique IDs not easily derivable from rankings
-- **Ranking vs. points**: Average ranking might be more meaningful than total points, which depends on competition attendance
+- **Ranking vs. points**: Average ranking might be more meaningful than total points, which depends on the number of competitions
 - **Outdoor scope**: Analysis limited to sport climbing; 8a.nu scraping could include outdoor bouldering data
 
