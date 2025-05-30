@@ -1,20 +1,59 @@
-/* Expand the container width */
-.wrapper {
-  display: grid;
-  grid-template-columns: 250px 1fr;
-  gap: 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
-  align-items: start;
-  padding: 2rem;
+/* Override the default minimal theme layout */
+
+/* First, let's target the main wrapper more specifically */
+body .wrapper {
+  display: grid !important;
+  grid-template-columns: 280px 1fr !important;
+  gap: 3rem !important;
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+  align-items: start !important;
+  padding: 2rem !important;
+  width: 100% !important;
 }
 
-/* Move profile/sidebar (which is the first <header>) to the left */
-.wrapper > header {
-  grid-column: 1;
+/* Target the header/sidebar specifically */
+body .wrapper header {
+  grid-column: 1 !important;
+  position: static !important;
+  width: auto !important;
+  float: none !important;
 }
 
-/* Main content area */
-.wrapper > section {
-  grid-column: 2;
+/* Target the main section */
+body .wrapper section {
+  grid-column: 2 !important;
+  width: auto !important;
+  float: none !important;
+}
+
+/* Ensure images in main content don't overflow */
+body .wrapper section img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Override any existing flexbox or float layouts */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Make sure the grid layout works on smaller screens too */
+@media screen and (max-width: 768px) {
+  body .wrapper {
+    grid-template-columns: 1fr !important;
+    gap: 1rem !important;
+    padding: 1rem !important;
+  }
+
+  body .wrapper header {
+    grid-column: 1 !important;
+    grid-row: 1 !important;
+  }
+
+  body .wrapper section {
+    grid-column: 1 !important;
+    grid-row: 2 !important;
+  }
 }
