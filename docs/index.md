@@ -27,20 +27,69 @@ The data collection process consisted of four main steps:
 
 4. **Data Merging**: Combined IFSC competition data with 8a.nu outdoor climbing metrics, resulting in a final dataset of **551 climbers** with both competition and outdoor climbing performance data.
 
-<div align="center">
-    <img src="https://i.ytimg.com/vi/o-mvzn_QjAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBaxSam--CADcyJDUBMQII2jui5hw" alt="Brooke Rabotou" width="200" style="margin: 0 20px;">
+<div>
+    <img src="https://i.ytimg.com/vi/o-mvzn_QjAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBaxSam--CADcyJDUBMQII2jui5hw" alt="Brooke Rabotou">
 </div>
 
 ## Analysis
 
 ### Exploratory Data Analysis
 
-The exploratory phase involved comprehensive analysis of the combined dataset to understand the relationships between outdoor and competition climbing performance. Key activities included:
+#### Dataset Overview
 
-- Analyzing distributions and correlations between outdoor climbing metrics and competition performance
-- Segmenting data by climbing discipline due to varying athlete participation patterns
-- Examining performance patterns across different regions and gender categories  
-- Creating visualizations including scatter plots, correlation heatmaps, and pairplots to identify underlying relationships in the data
+The scraped data contains **551 climbers** in total with significant variation in participation across disciplines and outdoor climbing activity:
+
+**Competition Participation:**
+- 429 climbers competed in **bouldering**
+- 316 climbers competed in **lead**  
+- 195 climbers competed in **combined**
+
+**Profile Data:**
+- Out of the 551 climbers, only **157** have an **8a.nu profile**
+- Of those, only **61** have an ascent grade of **8c+ or above**
+
+#### Handling Missing Data
+
+The data contains high percentages of missing values for two main reasons:
+1. **Climbers not participating in specific disciplines** (boulder_points, lead_points, combined_points)
+2. **Climbers not having an 8a.nu account** (highest_grade, count_8c_plus, avg_grade_first5)
+
+Due to the nature of these missing values, imputation was not viable. Instead, the data was segmented by discipline and outdoor climbing participation. Missing values were treated as zeros, representing either non-participation or absence of outdoor climbing data.
+
+#### Distribution Analysis
+
+Competition points across all disciplines showed highly right-skewed distributions, with most values clustered at lower scores and long tails extending to maximum values. This skewness reflects both performance variation and competition attendance frequency—climbers who compete more often accumulate more points.
+
+<div align="center">
+    <img src="assets/dist-boulder.png" alt="Boulder Distribution" width="200" style="margin: 0 10px;">
+    <img src="assets/dist-lead.png" alt="Lead Distribution" width="200" style="margin: 0 10px;">
+    <img src="assets/dist-comb.png" alt="Combined Distribution" width="200" style="margin: 0 10px;">
+</div>
+
+The boulder_points data ranges from 0 to 3380, with most values below 1000. Lead and combined disciplines show similar skew patterns for the same underlying reasons. To address this skewness in subsequent analysis, log transformations were applied to normalize the distributions.
+
+#### Regional Analysis
+
+Performance patterns were examined across different geographic regions to understand global climbing trends:
+
+<div align="center">
+    <img src="assets/comp-by-region.png" alt="Competition Performance by Region" width="400" style="margin: 0 20px;">
+    <img src="assets/outdoor-by-region.png" alt="Outdoor Performance by Region" width="400" style="margin: 0 20px;">
+</div>
+
+Regional analysis revealed variations in both competition participation and outdoor climbing achievement across different countries and continents.
+
+#### Correlation Analysis
+
+The relationship between outdoor and competition climbing was explored through correlation heatmaps and pairplot visualizations:
+
+<div align="center">
+    <img src="assets/heatmap.png" alt="Correlation Heatmap" width="400" style="margin: 0 20px;">
+    <img src="assets/pairplot.png" alt="Pairplot Analysis" width="400" style="margin: 0 20px;">
+</div>
+
+The heatmap reveals modest correlations between competition points and outdoor climbing metrics. However, stronger correlations appear within competition disciplines themselves and among outdoor climbing metrics. The statistical significance of these observed correlations was formally tested in the hypothesis testing phase.
+
 
 ### Hypothesis Testing
 
