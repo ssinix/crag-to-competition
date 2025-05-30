@@ -11,8 +11,8 @@ Climbing is a rapidly growing sport, with distinct communities in outdoor sport 
 ### Data Sources
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="200" style="margin: 0 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="200" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="150" style="margin: 0 20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="150" style="margin: 0 20px;">
 </div>
 
 This project combines data from two primary sources: the International Federation of Sport Climbing (IFSC) for competition performance metrics, and 8a.nu for outdoor climbing achievements.
@@ -29,8 +29,8 @@ The data collection process consisted of four main steps:
 
 4. **Data Merging**: Combined IFSC competition data with 8a.nu outdoor climbing metrics, resulting in a final dataset of **551 climbers** with both competition and outdoor climbing performance data.
 
-<div>
-    <img src="https://i.ytimg.com/vi/o-mvzn_QjAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBaxSam--CADcyJDUBMQII2jui5hw" alt="Brooke Rabotou">
+<div align="center">
+    <img src="https://i.ytimg.com/vi/o-mvzn_QjAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBaxSam--CADcyJDUBMQII2jui5hw" alt="Brooke Rabotou" width="300">
 </div>
 
 ## Analysis
@@ -63,9 +63,9 @@ Due to the nature of these missing values, imputation was not viable. Instead, t
 Competition points across all disciplines showed highly right-skewed distributions, with most values clustered at lower scores and long tails extending to maximum values. This skewness reflects both performance variation and competition attendance frequency—climbers who compete more often accumulate more points.
 
 <div align="center">
-    <img src="assets/dist-boulder.png" alt="Boulder Distribution" width="200" style="margin: 0 10px;">
-    <img src="assets/dist-lead.png" alt="Lead Distribution" width="200" style="margin: 0 10px;">
-    <img src="assets/dist-comb.png" alt="Combined Distribution" width="200" style="margin: 0 10px;">
+    <img src="assets/dist-boulder.png" alt="Boulder Distribution" width="300" style="margin: 0 10px;">
+    <img src="assets/dist-lead.png" alt="Lead Distribution" width="300" style="margin: 0 10px;">
+    <img src="assets/dist-comb.png" alt="Combined Distribution" width="300" style="margin: 0 10px;">
 </div>
 
 The boulder_points data ranges from 0 to 3380, with most values below 1000. Lead and combined disciplines show similar skew patterns for the same underlying reasons. To address this skewness in subsequent analysis, log transformations were applied to normalize the distributions.
@@ -107,8 +107,8 @@ Statistical analysis was conducted across five key research hypotheses:
 
 5. **Outdoor Metrics Correlations**: Strong correlation between highest grade achieved and average grade demonstrated consistency in outdoor climbing performance across athletes.
 
-<div>
-    <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1499553343.jpg?c=original" alt="Janja Garnbret">
+<div align="center">
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1499553343.jpg?c=original" alt="Janja Garnbret" width="300">
 </div>
 
 ## Machine Learning
