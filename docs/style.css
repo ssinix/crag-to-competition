@@ -35,8 +35,8 @@ body .wrapper section img {
 
 /* Override any existing flexbox or float layouts */
 body {
-  margin: 0;
-  padding: 0;
+  margin: 1rem;
+  padding: 1rem;
 }
 
 /* Make sure the grid layout works on smaller screens too */

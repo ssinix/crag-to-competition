@@ -11,8 +11,8 @@ Climbing is a rapidly growing sport, with distinct communities in outdoor sport 
 ### Data Sources
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="100" style="margin: 0 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="100" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="200" style="margin: 0 20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="200" style="margin: 0 20px;">
 </div>
 
 This project combines data from two primary sources: the International Federation of Sport Climbing (IFSC) for competition performance metrics, and 8a.nu for outdoor climbing achievements.
@@ -86,8 +86,8 @@ Regional analysis revealed variations in both competition participation and outd
 The relationship between outdoor and competition climbing was explored through correlation heatmaps and pairplot visualizations:
 
 <div align="center">
-    <img src="assets/heatmap.png" alt="Correlation Heatmap" width="400" style="margin: 0 20px;">
-    <img src="assets/pairplot.png" alt="Pairplot Analysis" width="400" style="margin: 0 20px;">
+    <img src="assets/heatmap.png" alt="Correlation Heatmap" width="300" style="margin: 0 20px;">
+    <img src="assets/pairplot.png" alt="Pairplot Analysis" width="300" style="margin: 0 20px;">
 </div>
 
 The heatmap reveals modest correlations between competition points and outdoor climbing metrics. However, stronger correlations appear within competition disciplines themselves and among outdoor climbing metrics. The statistical significance of these observed correlations was formally tested in the hypothesis testing phase.
@@ -107,6 +107,10 @@ Statistical analysis was conducted across five key research hypotheses:
 
 5. **Outdoor Metrics Correlations**: Strong correlation between highest grade achieved and average grade demonstrated consistency in outdoor climbing performance across athletes.
 
+<div>
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1499553343.jpg?c=original" alt="Janja Garnbret">
+</div>
+
 ## Machine Learning
 
 Predictive models were developed to forecast competition performance using outdoor climbing metrics as features. Two primary approaches were implemented:
@@ -115,6 +119,11 @@ Predictive models were developed to forecast competition performance using outdo
 - **Baseline RMSE**: 879.60 (mean prediction)
 - **Linear Regression**: ~450 RMSE (representing 7% of target range)
 - **XGBoost**: 297.63 RMSE with 10-fold cross-validation (4.6% of target range)
+
+<div align="center">
+    <img src="assets/linreg.png" alt="Linear Regression: Actual vs. Predicted" width="400" style="margin: 0 20px;">
+    <img src="assets/outdoor-by-region.png" alt="Outdoor Performance by Region" width="400" style="margin: 0 20px;">
+</div>
 
 The XGBoost model significantly outperformed linear regression across all validation methods, demonstrating the value of ensemble methods for this prediction task. However, the limited explanatory power (6-11% of variance explained) suggests that outdoor climbing performance, while statistically significant, represents only one component of competitive climbing success.
 
