@@ -1,0 +1,24 @@
+/* Override Jekyll Minimal Theme layout */
+.wrapper {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Move sidebar to the left */
+header {
+    grid-column: 1;
+}
+
+/* Make main content take more space */
+section {
+    grid-column: 2;
+}
+
+/* Optional: reduce profile image size if needed */
+header img {
+    max-width: 100%;
+    border-radius: 8px;
+}

@@ -9,8 +9,8 @@ Climbing is a rapidly growing sport, with distinct communities in outdoor sport 
 ### Data Sources
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="200" style="margin: 0 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="200" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/International_Federation_of_Sport_Climbing_Logo.svg" alt="IFSC Logo" width="100" style="margin: 0 20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMcmVlfxZqlNu8Ul--qUAFPRxg6sKW93xww&s" alt="8a.nu Logo" width="100" style="margin: 0 20px;">
 </div>
 
 This project combines data from two primary sources: the International Federation of Sport Climbing (IFSC) for competition performance metrics, and 8a.nu for outdoor climbing achievements.
