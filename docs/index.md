@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css" />
+
 # Does Outdoor Sport Climbing Translate to Competitive Success?
 
 ## Motivation
